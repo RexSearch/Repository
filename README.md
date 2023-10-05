@@ -26,6 +26,8 @@ https://github.com/Fndroid/clash_for_windows_pkg
 
 汉化补丁：https://github.com/Fndroid/clash_for_windows_pkg
 
+汉化版:https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+
 <h2 align="center">Listen1（音乐平台聚合）</h2>
 
 ### 桌面版
