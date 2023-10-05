@@ -22,7 +22,7 @@ https://github.com/Kr328/ClashForAndroid
 
 ### Windows版
 
-https://github.com/Fndroid/clash_for_windows_pkg
+原版：https://github.com/Fndroid/clash_for_windows_pkg
 
 汉化补丁：https://github.com/Fndroid/clash_for_windows_pkg
 
