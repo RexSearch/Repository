@@ -1,5 +1,3 @@
-<!-- 插入图片：  ![图片名字](图片链接) -->
-
 <h1 align="center">收藏的项目</h1>
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
