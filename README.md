@@ -1,6 +1,6 @@
 <h1 align="center">收藏的项目</h1>
 
-<p align="center"><img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="auto" height="auto"></p>
+![img](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
 
 <h2 align="center">V2rayNG</h2>
 
