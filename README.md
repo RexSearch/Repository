@@ -2,7 +2,7 @@
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
 
-<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="500" height="300" text-align: center;>
+<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="500" height="300" text-align: center>
 
 
 
