@@ -1,10 +1,3 @@
-<h1 align="center">
-<sub>
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/%E6%94%B6%E8%97%8F%E5%A4%B9logo.jpg" height="38" width="38" style="border-radius: 50%">
-</sub>
-收藏的项目
-</h1>
-
 <h1 align="center">收藏的项目</h1>
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
