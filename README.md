@@ -157,19 +157,17 @@ https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy
 
 via浏览器：https://github.com/tuyafeng/Via
 
-KeepChatGPT:https://github.com/xcanwin/KeepChatGPT
+KeepChatGPT:这是一款提高ChatGPT的数据安全能力和效率的插件https://github.com/xcanwin/KeepChatGPT
 
-这是一款提高ChatGPT的数据安全能力和效率的插件
+EPubBuilder:一款在线的epub格式书籍编辑器https://github.com/sqqihao/EPubBuilder
 
-一款在线的epub格式书籍编辑器:https://github.com/sqqihao/EPubBuilder
+Sigil：EPUB编辑工具https://github.com/Sigil-Ebook/Sigil
 
-Sigil(EPUB编辑工具)：https://github.com/Sigil-Ebook/Sigil
+开屏跳过:安卓系统的开屏广告自动跳过助手https://github.com/zfdang/Android-Touch-Helper
 
-开屏跳过-安卓系统的开屏广告自动跳过助手：https://github.com/zfdang/Android-Touch-Helper
+低配版PS：https://github.com/tannerhelland/PhotoDemon
 
-一个低配版PS：https://github.com/tannerhelland/PhotoDemon
+自学编程：网友自学编程以来所用资源和分享内容的大聚合https://github.com/rd2coding/Road2Coding
 
-网友自学编程以来所用资源和分享内容的大聚合：https://github.com/rd2coding/Road2Coding
-
-同时与所有AI机器人聊天，快速找到最佳答案：https://github.com/sunner/ChatALL
+ChatALL：同时与所有AI机器人聊天，快速找到最佳答案https://github.com/sunner/ChatALL
 
