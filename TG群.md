@@ -1,14 +1,3 @@
-<!DOCTYPE html>  
-<html>  
-<head>  
-  <style>  
-    .rounded-image {  
-      border-radius: 50%;  
-    }  
-  </style>  
-</head>  
-<body>  
-
 <h1 align="center">
 <sub>
 <img src="https://github.com/aa1555/aa1555/blob/main/Misc/telegram%20logo.jpg" height="38" width="38">
