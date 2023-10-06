@@ -1,5 +1,9 @@
 
-<h1 align="center">
+<h1 align="center"   <style>  
+    .rounded-image {  
+      border-radius: 50%;  
+    }  
+  </style> >
 <sub>
 <img src="https://github.com/aa1555/aa1555/blob/main/Misc/telegram%20logo.jpg" height="38" width="38">
 </sub>
@@ -7,7 +11,7 @@ Telegram群组
 </h1>
 
 
-<h1 align="center">Telegram群组</h1>
+
 
 ## 竹新社 
 
