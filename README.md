@@ -2,7 +2,7 @@
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
 
-<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="800" height="533">
+<h1 align="center"><img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="800" height="533"></h1>
 
 <h2 align="center">V2rayNG</h2>
 
