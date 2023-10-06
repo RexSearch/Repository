@@ -2,6 +2,16 @@
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
 
+<style>  
+  .image-border {  
+    border: 5px solid black;  
+  }  
+</style>  
+  
+<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Your Image" class="image-border">
+
+
+
 <h2 align="center">V2rayNG</h2>
 
 ### Android版
