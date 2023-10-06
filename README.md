@@ -32,7 +32,9 @@ https://github.com/Kr328/ClashForAndroid
 
 汉化版：https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
-<h2 align="center">Listen1（音乐平台聚合）</h2>
+<h2 align="center">Listen1</h2>
+
+<h2 align="center">（音乐平台聚合）</h2>
 
 ### 桌面版
 
