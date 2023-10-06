@@ -1,3 +1,5 @@
+[^1]: 标题一用h1，标题二用h2，因为需要用到居中标签，标题三用###
+
 <h1 align="center">收藏的项目</h1>
 
 <p align="center"><img src="https://github.com/aa1555/aa1555/blob/main/Misc/A%20(31).jpg"></p>
