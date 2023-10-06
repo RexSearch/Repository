@@ -2,19 +2,7 @@
 
 ![悟](https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg)
 
-<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="500" height="300" text-align: center>
-
-<style>  
-  .image-center {  
-    display: block;  
-    margin-left: auto;  
-    margin-right: auto;  
-  }  
-</style>  
-  
-<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Your Image" width="500" height="300" class="image-center">
-
-
+<img src="https://github.com/jjlycn/jjlycn/blob/main/Misc/A%20(31).jpg" alt="Image" width="800" height="300">
 
 <h2 align="center">V2rayNG</h2>
 
