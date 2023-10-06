@@ -40,15 +40,15 @@ https://github.com/listen1/listen1_chrome_extension
 
 <h2 align="center">桌面显示网速小工具</h2>
 
-https://github.com/zhongyang219/TrafficMonitor
+桌面显示网速小工具：https://github.com/zhongyang219/TrafficMonitor
 
 <h2 align="center">快速预览小工具</h2>
 
-https://github.com/QL-Win/QuickLook
+快速预览小工具：https://github.com/QL-Win/QuickLook
 
 <h2 align="center">系统优化工具</h2>
 
-https://github.com/Chuyu-Team/Dism-Multi-language
+系统优化工具：https://github.com/Chuyu-Team/Dism-Multi-language
 
 <h2 align="center">书签跨平台同步工具</h2>
 
