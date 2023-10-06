@@ -171,3 +171,5 @@ Sigil(EPUB编辑工具)：https://github.com/Sigil-Ebook/Sigil
 
 网友自学编程以来所用资源和分享内容的大聚合：https://github.com/rd2coding/Road2Coding
 
+同时与所有AI机器人聊天，快速找到最佳答案：https://github.com/sunner/ChatALL
+
