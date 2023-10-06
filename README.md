@@ -34,7 +34,7 @@ https://github.com/Kr328/ClashForAndroid
 
 <h2 align="center">Listen1</h2>
 
-<h2 align="center">（音乐平<br/>台聚合）</h2>
+<h2 align="center"><p>（音乐平</p><p>台聚合</p>）</h2>
 
 ### 桌面版
 
