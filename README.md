@@ -104,7 +104,6 @@ https://github.com/xinggsf/Adblock-Plus-Rule
 
 https://github.com/privacy-protection-tools/anti-AD
 
-
 https://github.com/easylist/easylist
 
  <h2 align="center">TVBOX（电视盒子）</h2>
@@ -117,7 +116,12 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 
 仓库源、直播源等：https://github.com/mengzehe/TVBox
 
- <h2 align="center">OCR文字识别工具</h2>
+ <h2 align="center">
+ <sub>
+<img src="https://camo.githubusercontent.com/aa519ca671c9d7944f1bd42c08ba0038c4bd48a93f033689bfa89c2955ba7abf/68747470733a2f2f74757069616e2e6c692f696d616765732f323032322f31302f32372f69636f6e2d2d2d3235362e706e67" height="38" width="38">
+</sub>
+  OCR文字识别工具
+</h2>
 
 一个完全离线的文字识别工具：https://github.com/hiroi-sora/Umi-OCR
 
@@ -139,14 +143,14 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 
 介绍了很多ChatGPT镜像站：https://github.com/xx025/carrot
 
-<h2 align="center">Chat聚合工具</h2>
-
-<h3>
-  <sub>
+<h2 align="center"> 
+ <sub>
 <img src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" height="38" width="38">
 </sub>
-ChatALL
-</h3>
+ Chat聚合工具
+</h2>
+
+### ChatALL
 
 聚合主流的AI大模型，实现一次提问，多个大模型同时回答
 
