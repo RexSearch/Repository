@@ -39,9 +39,7 @@ https://t.me/tnews365
 |https://t.me/dedao2019|https://t.me/xixishuwu|https://t.me/dzsgxs|
 |------|------|------|
 |https://t.me/ziyuanfengxiang59|https://t.me/ReadfineChat|https://t.me/TGeBook	|
-
 |https://t.me/freemorebest|https://t.me/SousuoBot|https://t.me/Readfine|
-
 |https://t.me/BooksThatMakeYouThink|https://t.me/dzsgx|
 
 ## 其他
