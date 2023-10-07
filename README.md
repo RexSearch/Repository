@@ -111,9 +111,8 @@ https://github.com/agalwood/Motrix
 
 ### Tracker 列表
 
-https://github.com/ngosang/trackerslist
-
-https://github.com/XIU2/TrackersListCollection
+|https://github.com/ngosang/trackerslist|https://github.com/XIU2/TrackersListCollection|
+| --- | --- |
 
 ### 网盘直链下载助手
 
