@@ -43,13 +43,13 @@ https://t.me/tnews365
 
 ## 其他
 
-|https://t.me/pjrjzy|https://t.me/wolfgang88|https://t.me/abc999222|
+|https://t.me/setlanguage_zh|https://t.me/wolfgang88|https://t.me/abc999222|
 |------|------|------|
 |https://t.me/xiaoxinv|https://t.me/kmfccc|https://t.me/abskoop|
 |https://t.me/dbscj|https://t.me/nbbypp|https://t.me/sihanxiaodian|
 |https://t.me/TgTrillion|https://t.me/qwjhfx|https://t.me/ZXYSXNONE|
 |https://t.me/MiResources|https://t.me/xiaoshuwu|https://t.me/dbxzs|           
-|https://t.me/setlanguage_zh|
+|https://t.me/pjrjzy|
 
 
 
