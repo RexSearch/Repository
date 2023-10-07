@@ -58,15 +58,17 @@ https://github.com/listen1/listen1_desktop
 https://github.com/listen1/listen1_chrome_extension
 
 <h2 align="center">
- <sub>
-<img src="https://user-images.githubusercontent.com/1687847/82130498-8c3eac80-97d4-11ea-9e88-372ab9c50295.png" height="38" width="38">
-</sub>
-  桌面显示网速小工具
+桌面显示网速小工具
 </h2>
 
 桌面显示网速小工具：https://github.com/zhongyang219/TrafficMonitor
 
-<h2 align="center">快速预览小工具</h2>
+<h2 align="center">
+ <sub>
+<img src="https://user-images.githubusercontent.com/1687847/82130498-8c3eac80-97d4-11ea-9e88-372ab9c50295.png" height="38" width="38">
+</sub>
+  快速预览小工具
+</h2>
 
 快速预览小工具：https://github.com/QL-Win/QuickLook
 
