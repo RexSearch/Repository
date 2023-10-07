@@ -99,11 +99,21 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 
 一个完全离线的文字识别工具：https://github.com/hiroi-sora/Umi-OCR
 
-<h2 align="center">ChatGPT桌面端</h2>
+<h2 align="center">
+ <sub>
+<img src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" height="38" width="38">
+</sub>
+ ChatGPT桌面端
+</h2>
 
 安装在电脑上的ChatGpt软件：https://github.com/lencx/ChatGPT
 
-<h2 align="center">ChatGPT镜像站</h2>
+<h2 align="center">
+  <sub>
+<img src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" height="38" width="38">
+</sub>
+ ChatGPT镜像站
+</h2>
 
 介绍了很多ChatGPT镜像站：https://github.com/xx025/carrot
 
