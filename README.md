@@ -105,7 +105,12 @@ https://github.com/qbittorrent/qBittorrent
 
 这个是其他人修改的版本：https://github.com/c0re100/qBittorrent-Enhanced-Edition
 
-### Motrix
+<h3>
+<sub>
+<img src="https://github.com/aa1555/aa1555/blob/main/Misc/Motrix-logo.png" height="38" width="38">
+</sub>
+Motrix
+</h3>
 
 https://github.com/agalwood/Motrix
 
