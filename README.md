@@ -81,9 +81,9 @@ https://github.com/gorhill/uBlock
 
 ### 过滤规则
 
-| https://github.com/cjx82630/cjxlist | https://github.com/xinggsf/Adblock-Plus-Rule |
-| --- | --- |
-|https://github.com/privacy-protection-tools/anti-AD|https://github.com/easylist/easylist|
+https://github.com/cjx82630/cjxlist &nbsp;&nbsp;&nbsp; https://github.com/xinggsf/Adblock-Plus-Rule
+
+https://github.com/privacy-protection-tools/anti-AD  &nbsp;&nbsp;&nbsp;  https://github.com/easylist/easylist
 
  <h2 align="center">TVBOX（电视盒子）</h2>
 
@@ -154,8 +154,7 @@ https://github.com/agalwood/Motrix
 
 ### Tracker 列表
 
-|https://github.com/ngosang/trackerslist|https://github.com/XIU2/TrackersListCollection|
-| --- | --- |
+https://github.com/ngosang/trackerslist  &nbsp;&nbsp;&nbsp;  https://github.com/XIU2/TrackersListCollection
 
 ### 网盘直链下载助手
 
@@ -163,14 +162,19 @@ https://github.com/agalwood/Motrix
 
 <h2 align="center">免费节点分享</h2>
 
-|https://github.com/Pawdroid/Free-servers|https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy|
-| --- | --- |
-|https://github.com/changfengoss/pub|https://github.com/ermaozi/get_subscribe|
-|https://github.com/Jsnzkpg/Jsnzkpg|https://github.com/ripaojiedian/freenode|
-|https://github.com/ermaozi01/free_clash_vpn|https://github.com/Lewis-1217/FreeNodes|
-|https://github.com/freefq/free|https://github.com/aiboboxx/v2rayfree|
-|https://github.com/free18/v2ray|https://github.com/tbbatbb/Proxy|
-|https://github.com/anaer/Sub|https://github.com/Paimonhub/Nodpai|
+https://github.com/Pawdroid/Free-servers  &nbsp;&nbsp;&nbsp;  https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy
+
+https://github.com/changfengoss/pub  &nbsp;&nbsp;&nbsp;  https://github.com/ermaozi/get_subscribe
+
+https://github.com/Jsnzkpg/Jsnzkpg  &nbsp;&nbsp;&nbsp;  https://github.com/ripaojiedian/freenode
+
+https://github.com/ermaozi01/free_clash_vpn  &nbsp;&nbsp;&nbsp;  https://github.com/Lewis-1217/FreeNodes
+
+https://github.com/freefq/free  &nbsp;&nbsp;&nbsp;  https://github.com/aiboboxx/v2rayfree
+
+https://github.com/free18/v2ray  &nbsp;&nbsp;&nbsp;  https://github.com/tbbatbb/Proxy
+
+https://github.com/anaer/Sub  &nbsp;&nbsp;&nbsp;  https://github.com/Paimonhub/Nodpai
 
 <h2 align="center">其他项目</h2>
 
@@ -232,10 +236,11 @@ https://github.com/TeamVanced/VancedMicroG
 
 ### Misc
 
-| https://github.com/NoName-exe/revanced-extended| https://github.com/XDream8/revanced-creator| 
-| --- | --- |
-| https://github.com/NoName-exe/revanced| https://github.com/kazimmt/RVX-Features| 
-| https://github.com/nikhilbadyal/docker-py-revanced| https://github.com/kakathic/YT-AT| 
+https://github.com/NoName-exe/revanced-extended  &nbsp;&nbsp;&nbsp;  https://github.com/XDream8/revanced-creator
+
+https://github.com/NoName-exe/revanced  &nbsp;&nbsp;&nbsp;  https://github.com/kazimmt/RVX-Features
+
+https://github.com/nikhilbadyal/docker-py-revanced  &nbsp;&nbsp;&nbsp;  https://github.com/kakathic/YT-AT
 
 
 
