@@ -175,3 +175,21 @@ Sigil：EPUB编辑工具https://github.com/Sigil-Ebook/Sigil
 
 ChatALL：同时与所有AI机器人聊天，快速找到最佳答案https://github.com/sunner/ChatALL
 
+<h2 align="center">YouTube开源版</h2>
+
+YouTube-Revanced：https://github.com/j-hc/revanced-magisk-module
+
+VancedMicroG：https://github.com/TeamVanced/VancedMicroG
+
+https://github.com/NoName-exe/revanced-extended
+
+https://github.com/XDream8/revanced-creator
+
+https://github.com/NoName-exe/revanced
+
+https://github.com/kazimmt/RVX-Features
+
+https://github.com/nikhilbadyal/docker-py-revanced
+
+https://github.com/kakathic/YT-AT
+
