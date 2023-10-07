@@ -220,12 +220,6 @@ https://github.com/tannerhelland/PhotoDemon
 
 https://github.com/rd2coding/Road2Coding
 
-### ChatALL：
-
-同时与所有AI机器人聊天，快速找到最佳答案
-
-https://github.com/sunner/ChatALL
-
 <h2 align="center">YouTube开源版</h2>
 
 ### YouTube-Revanced：
