@@ -123,10 +123,8 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 </sub>
  Chat聚合工具
 </h2>
-
-聚合主流的AI大模型，实现一次提问，多个大模型同时回答
-
 ### ChatALL
+聚合主流的AI大模型，实现一次提问，多个大模型同时回答
 
 https://github.com/sunner/ChatALL
 
