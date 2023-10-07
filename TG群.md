@@ -14,7 +14,7 @@ https://t.me/tnews365
 
 | https://t.me/wxgdjbptlq | https://t.me/aries_init | https://t.me/ShareCentrePro |
 |------|------|------|
-| https://t.me/ZDYZ2 | https://t.me/wxgqlfx | https://t.me/ZYFXS001 | 
+| https://t.me/ZDYZ2 |https://t.me/wxgqlfx| https://t.me/ZYFXS001 | 
 | https://t.me/wbnet | https://t.me/oeo12 | https://t.me/wxgmrjdcc | 
 | https://t.me/nodpai| https://t.me/WangCai_1| https://t.me/wxgdfb_bot| 
 
