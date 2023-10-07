@@ -119,7 +119,7 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 
 <h2 align="center">Chat聚合工具</h2>
 
-<h3 align="center">
+<h3>
   <sub>
 <img src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" height="38" width="38">
 </sub>
