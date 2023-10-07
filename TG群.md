@@ -5,18 +5,13 @@
 Telegram群组
 </h1>
 
-
-
-
 ## 竹新社 
 
 https://t.me/tnews365
 
 ## 节点分享
 
-https://t.me/wxgdjbptlq
-
-https://t.me/aries_init
+https://t.me/wxgdjbptlq &nbsp;&nbsp;&nbsp;&nbsp;https://t.me/aries_init
 
 https://t.me/ShareCentrePro
 
