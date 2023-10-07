@@ -277,7 +277,12 @@ https://github.com/rd2coding/Road2Coding
 
 https://github.com/crittermike/shortkeys
 
-<h2 align="center">YouTube开源版</h2>
+<h2 align="center"> 
+ <sub>
+<img src="https://github.com/aa1555/aa1555/blob/main/Misc/youtube-logo.png?raw=true" height="38" width="38">
+</sub>
+YouTube开源版
+</h2>
 
 ### YouTube-Revanced：
 
