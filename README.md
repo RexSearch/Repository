@@ -177,9 +177,13 @@ ChatALL：同时与所有AI机器人聊天，快速找到最佳答案https://git
 
 <h2 align="center">YouTube开源版</h2>
 
-YouTube-Revanced：https://github.com/j-hc/revanced-magisk-module
+### YouTube-Revanced：
 
-VancedMicroG：https://github.com/TeamVanced/VancedMicroG
+https://github.com/j-hc/revanced-magisk-module
+
+### VancedMicroG：
+
+https://github.com/TeamVanced/VancedMicroG
 
 https://github.com/NoName-exe/revanced-extended
 
