@@ -155,25 +155,57 @@ https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy
 
 <h2 align="center">其他项目</h2>
 
-科技爱好者周刊，每周五发布：https://github.com/ruanyf/weekly
+### 科技爱好者周刊，每周五发布：
 
-分享 GitHub 上有趣、入门级的开源项目：https://github.com/521xueweihan/HelloGitHub
+https://github.com/ruanyf/weekly
 
-via浏览器：https://github.com/tuyafeng/Via
+### 分享 GitHub 上有趣、入门级的开源项目：
 
-KeepChatGPT:这是一款提高ChatGPT的数据安全能力和效率的插件https://github.com/xcanwin/KeepChatGPT
+https://github.com/521xueweihan/HelloGitHub
 
-EPubBuilder:一款在线的epub格式书籍编辑器https://github.com/sqqihao/EPubBuilder
+### via浏览器：
 
-Sigil：EPUB编辑工具https://github.com/Sigil-Ebook/Sigil
+https://github.com/tuyafeng/Via
 
-开屏跳过:安卓系统的开屏广告自动跳过助手https://github.com/zfdang/Android-Touch-Helper
+### KeepChatGPT:
 
-低配版PS：https://github.com/tannerhelland/PhotoDemon
+这是一款提高ChatGPT的数据安全能力和效率的插件
 
-自学编程：网友自学编程以来所用资源和分享内容的大聚合https://github.com/rd2coding/Road2Coding
+https://github.com/xcanwin/KeepChatGPT
 
-ChatALL：同时与所有AI机器人聊天，快速找到最佳答案https://github.com/sunner/ChatALL
+### EPubBuilder:
+
+一款在线的epub格式书籍编辑器
+
+https://github.com/sqqihao/EPubBuilder
+
+### Sigil：
+
+EPUB编辑工具
+
+https://github.com/Sigil-Ebook/Sigil
+
+### 开屏跳过:
+
+安卓系统的开屏广告自动跳过助手
+
+https://github.com/zfdang/Android-Touch-Helper
+
+### 低配版PS：
+
+https://github.com/tannerhelland/PhotoDemon
+
+### 自学编程：
+
+网友自学编程以来所用资源和分享内容的大聚合
+
+https://github.com/rd2coding/Road2Coding
+
+### ChatALL：
+
+同时与所有AI机器人聊天，快速找到最佳答案
+
+https://github.com/sunner/ChatALL
 
 <h2 align="center">YouTube开源版</h2>
 
