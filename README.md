@@ -99,7 +99,12 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
 
 <h2 align="center">下载工具</h2>
 
-### qBittorrent（一个BT下载工具）
+<h3>
+<sub>
+<img src="https://avatars.githubusercontent.com/u/2131270?s=48&v=4" height="38" width="38">
+</sub>
+qBittorrent（一个BT下载工具）
+</h3>
 
 https://github.com/qbittorrent/qBittorrent
 
