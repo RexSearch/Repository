@@ -185,6 +185,8 @@ https://github.com/j-hc/revanced-magisk-module
 
 https://github.com/TeamVanced/VancedMicroG
 
+### Misc
+
 https://github.com/NoName-exe/revanced-extended
 
 https://github.com/XDream8/revanced-creator
