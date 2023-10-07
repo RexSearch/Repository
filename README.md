@@ -71,13 +71,9 @@ https://github.com/gorhill/uBlock
 
 ### 过滤规则
 
-https://github.com/cjx82630/cjxlist
-
-https://github.com/xinggsf/Adblock-Plus-Rule
-
-https://github.com/privacy-protection-tools/anti-AD
-
-https://github.com/easylist/easylist
+| https://github.com/cjx82630/cjxlist | https://github.com/xinggsf/Adblock-Plus-Rule |
+| --- | --- |
+|https://github.com/privacy-protection-tools/anti-AD|https://github.com/easylist/easylist|
 
  <h2 align="center">TVBOX（电视盒子）</h2>
 
