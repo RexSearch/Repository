@@ -76,7 +76,12 @@ https://github.com/listen1/listen1_chrome_extension
 
 系统优化工具：https://github.com/Chuyu-Team/Dism-Multi-language
 
-<h2 align="center">书签跨平台同步工具</h2>
+<h2 align="center">
+ <sub>
+<img src="https://raw.githubusercontent.com/marcelklehr/floccus/master/icons/logo.png" height="38" width="38">
+</sub>
+  书签跨平台同步工具
+</h2>
 
 书签跨平台同步插件（借助WebDav）：https://github.com/floccusaddon/floccus
 
