@@ -21,31 +21,12 @@ https://t.me/tnews365
 
 ## TG直连
 
-https://t.me/ROXYSAZZ
-
-https://t.me/TelMTProto
-
-https://t.me/MTProtoTG
-
-https://t.me/MTProtoProxies
-
-https://t.me/proxymtprotoj
-
-https://t.me/proxymtprotoir
-
-https://t.me/ProxyMTProto_tel
-
-https://t.me/ProxyMTProto
-
-https://t.me/GroupProxyPro
-
-https://t.me/BBCXFR
-
-https://t.me/iCnLime
-
-https://t.me/CnLime
-
-https://t.me/MTProtoSS
+|https://t.me/ROXYSAZZ|https://t.me/TelMTProto|https://t.me/MTProtoTG|
+|------|------|------|
+|https://t.me/MTProtoProxies|https://t.me/proxymtprotoj|https://t.me/proxymtprotoir|
+|https://t.me/ProxyMTProto_tel|||
+|https://t.me/ProxyMTProto|https://t.me/GroupProxyPro|https://t.me/BBCXFR|
+|https://t.me/iCnLime|https://t.me/CnLime|https://t.me/MTProtoSS|
 
 ## 技术交流
 
