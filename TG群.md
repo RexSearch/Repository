@@ -18,7 +18,6 @@ https://t.me/tnews365
 |  https://t.me/wbnet  |  https://t.me/oeo12  |  https://t.me/wxgmrjdcc  | 
 |  https://t.me/nodpai  |  https://t.me/WangCai_1  |  https://t.me/wxgdfb_bot  | 
 
-
 ## TG直连
 
 |https://t.me/ROXYSAZZ|https://t.me/TelMTProto|https://t.me/MTProtoTG|
@@ -30,23 +29,10 @@ https://t.me/tnews365
 
 ## 技术交流
 
-https://t.me/ripaojiedian
-
-https://t.me/woniubuchuiniu
-
-https://t.me/fun_apk
-
-https://t.me/PJAPK
-
-https://t.me/tfwzclz
-
-https://t.me/Mtprotomm
-
-https://t.me/PJAPKWin
-
-https://t.me/fun_exe
-
-https://t.me/fun_vpn
+|https://t.me/ripaojiedian|https://t.me/woniubuchuiniu|https://t.me/fun_apk|
+|------|------|------|
+|https://t.me/PJAPK|https://t.me/tfwzclz|https://t.me/Mtprotomm|
+|https://t.me/PJAPKWin|https://t.me/fun_exe|https://t.me/fun_vpn|
 
 ## 读书学习
 
