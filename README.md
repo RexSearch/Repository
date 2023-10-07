@@ -18,8 +18,12 @@ https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
 
 https://github.com/2dust/v2rayN
 
-<h2 align="center">Clash</h2>
-
+<h2 align="center">
+ <sub>
+ <img src="https://github.com/Kr328/ClashForAndroid/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+</sub>
+ Clash
+</h2>
 ### Android版
 
 https://github.com/Kr328/ClashForAndroid
