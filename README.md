@@ -20,10 +20,11 @@ https://github.com/2dust/v2rayN
 
 <h2 align="center">
  <sub>
- <img src="https://github.com/Kr328/ClashForAndroid/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+<img src="https://github.com/Kr328/ClashForAndroid/blob/main/app/src/main/ic_launcher-web.png?raw=true" height="38" width="38">
 </sub>
- Clash
+  Clash
 </h2>
+
 ### Android版
 
 https://github.com/Kr328/ClashForAndroid
