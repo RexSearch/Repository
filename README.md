@@ -33,9 +33,10 @@ https://github.com/Kr328/ClashForAndroid
 汉化版：https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 
 <h2 align="center">
- 
+ <sub>
 <img src="https://github.com/listen1/listen1_desktop/blob/master/app/resources/logo512.png?raw=true" height="38" width="38">
-Listen1（音乐聚合平台）
+</sub>
+  Listen1（音乐聚合平台）
 </h2>
 
 ### 桌面版
