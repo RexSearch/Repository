@@ -8,8 +8,6 @@
 
 <h2 align="center">
  <sub>
-<img src="<h2 align="center">
- <sub>
 <img src="https://github.com/2dust/v2rayNG/blob/master/V2rayNG/app/src/main/ic_launcher-web.png?raw=true" height="38" width="38">
 </sub>
   V2rayNG
