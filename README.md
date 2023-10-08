@@ -190,7 +190,7 @@ https://github.com/XIU2/TrackersListCollection
 
 <h2 align="center"> 
  <sub>
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/%E4%BF%A1%E5%8F%B7logo.jpg?raw=true" height="38" width="38">
+<img src="https://github.com/aa1555/aa1555/blob/main/Misc/%E4%BF%A1%E5%8F%B7logo.png?raw=true" height="38" width="38">
 </sub>
  免费节点分享
 </h2>
