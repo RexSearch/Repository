@@ -5,7 +5,7 @@
 Telegram群组
 </h1>
 
-<hr>
+
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
 <p align="center"><a href="https://t.me/tnews365">https://t.me/tnews365 </a></p>
