@@ -58,8 +58,8 @@ https://github.com/listen1/listen1_desktop
 https://github.com/listen1/listen1_chrome_extension
 
 <h2 align="center">
- <img src="https://github.com/aa1555/aa1555/blob/main/Misc/TrafficMonitor.150x150Logo.png?raw=true" height="38" width="38">
-桌面显示网速小工具
+ <sub> <img src="https://github.com/aa1555/aa1555/blob/main/Misc/TrafficMonitor.150x150Logo.png?raw=true" height="38" width="38">
+</sub>桌面显示网速小工具
 </h2>
 
 桌面显示网速小工具：https://github.com/zhongyang219/TrafficMonitor
