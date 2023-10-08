@@ -5,15 +5,6 @@
 Telegram群组
 </h1>
 
-
-
-<h1 align="center">
-<sub>
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/telegram%20logo.jpg" height="38" width="38" style="border-radius: 50%">
-</sub>
-Telegram群组
-</h1>
-
 <hr>
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
