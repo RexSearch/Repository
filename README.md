@@ -27,12 +27,7 @@
 
 
 <h2 align="center">
-
- <sub>
 <img src="https://github.com/aa1555/aa1555/blob/main/Misc/ic_launcher-web.png?raw=true" height="38" width="38">
-</sub>
-
-  V2rayNG
 </h2>
 
 ### Android版
