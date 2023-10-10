@@ -52,7 +52,7 @@ https://github.com/Kr328/ClashForAndroid
   Listen1（音乐聚合平台）
 </h2>
 
-### 桌面版
+### Windows客户端
 
 https://github.com/listen1/listen1_desktop
 
@@ -65,7 +65,7 @@ https://github.com/listen1/listen1_chrome_extension
 </sub>桌面显示网速小工具
 </h2>
 
-桌面显示网速小工具：https://github.com/zhongyang219/TrafficMonitor
+Win版桌面显示网速小工具：https://github.com/zhongyang219/TrafficMonitor
 
 <h2 align="center">
  <sub>
@@ -133,7 +133,7 @@ TVbox开源版（空壳-自行配置）：https://github.com/liu673cn/box
  <sub>
 <img src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" height="38" width="38">
 </sub>
- ChatGPT桌面端
+ ChatGPT Windows客户端
 </h2>
 
 安装在电脑上的ChatGpt软件：https://github.com/lencx/ChatGPT
