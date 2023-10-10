@@ -12,7 +12,7 @@
 
 <h2 align="center">欢迎来到GitHub！</h2>
 
-<h1 align="center"><img src="https://github.com/aa1555/aa1555/blob/main/Misc/A%20(31).jpg?raw=true"></h1>
+<h2 align="center"><img src="https://github.com/aa1555/aa1555/blob/main/Misc/A%20(31).jpg?raw=true"></h2>
 
 
 
