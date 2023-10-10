@@ -27,7 +27,7 @@
 
 
 <h2 align="center">
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/ic_launcher-web.png?raw=true" height="38" width="38">
+<img src="https://github.com/aa1555/aa1555/blob/main/Misc/ic_launcher-web.png?raw=true" height="38" width="38">粉色的发
 </h2>
 
 ### Android版
