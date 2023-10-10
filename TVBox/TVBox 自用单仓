@@ -2,7 +2,7 @@
 // https://raw.githubusercontent.com/aa1555/aa1555/main/TVBox/TVBox%20%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93
 {"urls":
 [
-{"url":"https://raw.githubusercontent.com/aa1555/aa1555/main/TVBox/TVBox%E8%87%AA%E7%94%A8%E6%BA%90","name": "自用源"},
+{"url":"https://raw.githubusercontent.com/aa1555/aa1555/main/TVBox/TVBox%20%E8%87%AA%E7%94%A8%E6%BA%90","name": "自用源"},
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json","name":"PizazzGY直播"},
 {"url":"http://饭太硬.top/tv","name": "饭太硬线"},
 {"url":"http://xhww.fun:63/小米/DEMO.json","name": "小暴脾气"},
