@@ -4,7 +4,7 @@
 <!--   这种注释语法主要用于HTML和XML等标记语言中，而 // 主要用于编程语言中。   -->
 <!--加在标题前的图标并且居中
 <h1 align="center">
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/ic_launcher-web.png?raw=true" height="38" width="38">标题
+<img src="https://github.com/aa1555/aa1555/blob/main/Misc/ic_launcher-web.png?raw=true" height="400" width="267">标题
 </h1>
 -->
 
