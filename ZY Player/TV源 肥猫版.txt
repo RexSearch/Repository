@@ -1,3 +1,5 @@
+//收集自http://肥猫.love→http://我不是.肥猫.love:63/TV/tvzb.txt
+//接口解密：https://www.lige.fit/ua
 
 🐼丨央视频道,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
