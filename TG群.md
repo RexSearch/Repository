@@ -1,10 +1,4 @@
-<h1 align="center">
-<sub>
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/telegram%20logo.png" height="38" width="38" style="border-radius: 50%">
-</sub>
-Telegram群组
-</h1>
-
+<h1 align="center">Telegram群组</h1>
 
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
@@ -367,9 +361,6 @@ Telegram群组
 <b>
 <span style="font-family: 方正粗圆_GBK; color: rgb(0,0,0); letter-spacing: 0.0000pt; font-weight: bold; text-transform: none; font-style: normal; font-size: 24.0000pt; background: rgb(255,255,255)">
 
- <sub>
-<img src="https://github.com/aa1555/aa1555/blob/main/Misc/telegram%20logo.png" height="38" width="38" style="border-radius: 50%">
-</sub>
 <font face="方正粗圆_GBK">TG群搜索</font></span></b></h1>
 <div align="center">
 	<table border="1" cellspacing="2" style="width: 508.5000pt; border: 1.5000pt outset rgb(51,102,153)">
