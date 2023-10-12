@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：https://v2rayse.com
-#  创建时间：2023-10-11 00:32:03
+#  创建时间：2023-10-12 08:08:54
 #  模版：v2rayse默认模版
-#  节点数量：281
+#  节点数量：64
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -13,287 +13,70 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"vmess","name":"_1","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"65.21.108.190","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_2","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.97.51","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.184_1","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.184.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_3","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.99.140","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_4","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.85.177","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_5","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.89.169","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_6","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.229.166","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_1","server":"tg_mfbpn_ppg3.52vpn.eu.org","port":10846,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_7","http-opts":{"path":["/"]},"server":"5.78.85.177","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_1","server":"64.176.163.211","port":29471,"uuid":"8ee350d6-34d6-4122-ba6c-fa6524910665","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_8","http-opts":{"path":["/"]},"server":"5.78.98.214","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_9","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"209.145.52.197","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_2","server":"64.176.189.206","port":35666,"uuid":"6f4d195a-8ab2-434d-9bb0-cda98e0530d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_3","server":"64.176.171.28","port":32743,"uuid":"a49b8244-2152-4f6c-af0f-ef3ddcee175e","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_2","server":"cm1-nc.go001.buzz","port":19541,"cipher":"chacha20-ietf-poly1305","password":"2e201a3c-e855-4414-a9c0-5d6e6fedca07"}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_3","server":"starspeed.tbh.iosds.com","port":25854,"cipher":"chacha20-ietf-poly1305","password":"4f53bfbd-4968-4f27-8700-d323250848bb"}
-  - {"type":"vless","name":"default_name_4","server":"95.216.169.207","port":16122,"uuid":"1d087c80-5b66-4b9e-992d-a888ce4ca53f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_5","server":"64.176.170.197","port":28599,"uuid":"a50103dd-4a5b-418d-b72b-cb52017e4d58","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_6","server":"155.138.146.38","port":33748,"uuid":"513dbbed-ce3d-41cc-9e2e-64cf0cc0e6e2","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_7","server":"64.176.183.103","port":42009,"uuid":"e237c810-2e71-4cef-aff4-1202995c4092","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_10","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.123.204","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_4","server":"cn2-1-nc.go001.buzz","port":19531,"cipher":"chacha20-ietf-poly1305","password":"2e201a3c-e855-4414-a9c0-5d6e6fedca07"}
-  - {"type":"vless","name":"default_name_8","server":"155.138.147.160","port":31046,"uuid":"b37bf13e-fb98-431c-81c5-33b744e34e3e","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_11","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"65.21.108.190","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_9","server":"64.176.191.173","port":28885,"uuid":"d70d82a3-8833-4046-aca9-92fa746130aa","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_12","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"gd-209.145.52.197.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_13","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.188.185","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_5","server":"hk.kunlun-ppg.com","port":10806,"password":"6eb87422-6071-41a2-922f-1192d3bcf3d9","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_10","server":"70.34.223.192","port":18747,"uuid":"da8d1b4e-b454-4cc6-a4e3-17b356609f87","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_14","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"154.197.106.26","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_11","server":"216.128.185.116","port":36580,"uuid":"f64e5ad2-24e0-4578-9d42-a9034d6a76ab","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_12","server":"64.176.191.168","port":40296,"uuid":"c8a568f6-0a62-4137-8937-da7644d83797","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_13","server":"216.128.177.188","port":34333,"uuid":"89d7cd81-9b18-46a5-8730-a756f89d4653","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_14","server":"64.176.183.184","port":16293,"uuid":"51cf2004-b3cf-447c-b688-5b3ceab5de88","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_15","server":"64.176.191.87","port":15846,"uuid":"68842d5f-0d87-4420-bd50-c05d9b3da57a","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_16","server":"216.128.177.215","port":39766,"uuid":"796e2c92-cc09-445b-ab30-399def4bc0c5","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇺🇸TG频道@oeo12免费订阅US_1","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v002.ssrsub.com"}},"server":"singapore.com","port":"8080","uuid":"d3f830a2-205a-4bba-a7ca-5e87899ac04d","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_6","server":"tg_mfbpn_ppg1.52vpn.eu.org","port":10805,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_15","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"146.190.248.111","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_16","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.190.191","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_17","server":"64.176.169.118","port":40785,"uuid":"419d7a17-d500-4038-a034-b7bf669eb196","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_7","server":"61.136.232.6","port":10811,"password":"e96b0c2b-98a8-4549-87d7-03beb17f2750","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_17","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.247.178","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸TG频道@oeo12免费订阅US_2","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v002.ssrsub.com"}},"server":"ns1.v2-vip.fun","port":"8080","uuid":"d3f830a2-205a-4bba-a7ca-5e87899ac04d","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_18","server":"64.176.180.182","port":25782,"uuid":"942e34e0-cce0-4a7e-a167-de91fa088f0c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_18","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.65.41","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_19","server":"70.34.210.196","port":19182,"uuid":"a1ebbf44-9594-4eca-b0b5-e4c2cd00adf6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_20","server":"51.81.210.121","port":29002,"uuid":"10c90766-3d47-4f69-a5f6-481611c0c4aa","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_21","server":"64.176.181.156","port":43613,"uuid":"59f34037-4c68-4aa4-b077-c2c0867c848b","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_22","server":"216.128.180.124","port":16126,"uuid":"8084d099-edd8-48b2-bb97-25c2215fbab1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_23","server":"155.138.151.111","port":47232,"uuid":"aa85021d-a7f5-435c-8da8-5d8d92d48966","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_19","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.116.241","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_20","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"pvp-5.161.230.138.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_21","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.216.156.175","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.195","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.195.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_1","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"sr2.kxking.eu.org"}},"server":"103.234.53.204","port":"50636","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vless","name":"default_name_24","server":"216.128.185.62","port":47677,"uuid":"a4416256-b941-4ce2-afb1-a9cf531752d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇩🇪TG频道@oeo12免费订阅DE","server":"18.159.80.68","port":22222,"password":"telegram-id-privatevpns","udp":true,"skip-cert-verify":true,"sni":"trj.rollingnext.co.uk","network":"tcp"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_8","server":"61.136.232.136","port":10802,"password":"e96b0c2b-98a8-4549-87d7-03beb17f2750","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"🇨🇳TG频道@oeo12免费订阅CN_9","server":"tg_mfbpn_t1.52vpn.eu.org","port":"35013","uuid":"37e5dcf8-8625-3143-9c12-f3d378c0a6ef","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"_22","http-opts":{"path":["/"]},"server":"65.21.241.85","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_25","server":"155.138.145.83","port":17705,"uuid":"5311aa25-ec80-4d7b-80a3-1c9e0ab1a5d1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_26","server":"64.176.180.32","port":17364,"uuid":"b45bb4eb-539f-4af8-99a1-13703e50d3d5","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_23","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.102.30","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_24","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.254.129","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_10","server":"61.136.232.135","port":10807,"password":"e96b0c2b-98a8-4549-87d7-03beb17f2750","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_27","server":"64.176.188.253","port":33205,"uuid":"de438793-aa22-46e1-b4f2-0b1e22a08176","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_2","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"de.kxking.eu.org"}},"server":"8.218.156.91","port":"8443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vless","name":"default_name_28","server":"64.176.187.89","port":43144,"uuid":"e0ee1931-913e-4830-874b-561c272baa92","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_25","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.210.136","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_26","http-opts":{"path":["/"]},"server":"95.217.3.217","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_27","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.225.168","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_29","server":"64.176.185.16","port":41568,"uuid":"59e4c413-084e-41d4-8f31-a847a6da8e50","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇺🇸89.116.38.192","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.192.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_28","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.96.88","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_3","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"sr2.kxking.eu.org"}},"server":"199.15.76.35","port":"443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vless","name":"default_name_30","server":"149.248.55.250","port":40059,"uuid":"fd04d106-f553-494b-a9a1-d6b98e238a05","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_29","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.98.214","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_30","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.80.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.198","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"89.116.38.198","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_31","server":"lmr-64.176.187.73.nip.io","port":37665,"uuid":"f33f2cdd-53da-4035-925d-054355f3a846","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_11","server":"hk.kunlun-ppg.com","port":10807,"password":"6eb87422-6071-41a2-922f-1192d3bcf3d9","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_31","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.115.43","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_32","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.217.3.217","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_33","http-opts":{"path":["/"]},"server":"5.78.65.41","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_32","server":"65.20.112.238","port":37210,"uuid":"e46ccda3-ab59-469a-92ec-11ffeab4a0f6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_33","server":"64.176.179.13","port":16234,"uuid":"9fe18825-b065-4c52-8f8a-0e96264fd483","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_4","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"abzb.kxking.eu.org"}},"server":"47.242.90.154","port":"443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vless","name":"default_name_34","server":"64.176.178.53","port":19367,"uuid":"42f2741d-4a3e-47a4-a3e6-47770101506b","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_34","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.104.177","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_35","server":"155.138.157.235","port":22314,"uuid":"3e876c32-1911-429c-9a6a-5ec485cd826c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_35","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"138.197.142.173","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_36","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.78.68","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_37","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"skps-95.217.3.217.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_38","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.229.166","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_12","server":"uk.shawbrothersstudio.com","port":19923,"cipher":"chacha20-ietf-poly1305","password":"yCf03vE7phaImZaVjeAF3L"}
-  - {"type":"vless","name":"default_name_36","server":"64.176.190.238","port":22502,"uuid":"7d11a7dd-21ba-4308-b5b1-ac667a15bbbb","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_37","server":"64.176.186.18","port":42105,"uuid":"dbab58ca-eb35-402f-9204-53cf55bd8bbc","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_39","http-opts":{"path":["/"]},"server":"5.78.98.189","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_40","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"pvp-5.161.210.218.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_38","server":"64.176.185.16","port":41568,"uuid":"59e4c413-084e-41d4-8f31-a847a6da8e50","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_39","server":"64.176.189.206","port":35666,"uuid":"6f4d195a-8ab2-434d-9bb0-cda98e0530d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_40","server":"64.176.186.184","port":21479,"uuid":"c5de4f0b-fa88-410b-883f-f0e1b3eef15c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_5","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"de.kxking.eu.org"}},"server":"8.218.156.91","port":"443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"_41","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.108.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_13","server":"hefei.chiguayun.cc","port":27137,"cipher":"chacha20-ietf-poly1305","password":"d376f270-1807-4522-9f92-b499658a2678"}
-  - {"type":"vmess","name":"_42","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.98.189","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_14","server":"tg_mfbpn_ppg2.52vpn.eu.org","port":10816,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_41","server":"64.176.186.234","port":16740,"uuid":"8ccc87a8-4db6-4261-9c55-ab43bf207e83","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_43","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.150.146","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_44","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.202.143","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_45","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"134.122.38.186","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_6","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"de.kxking.eu.org"}},"server":"103.234.53.204","port":"50636","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸TG频道@oeo12免费订阅US_3","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"abzb.kxking.eu.org"}},"server":"154.202.56.80","port":"40005","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"_46","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.254.246","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_47","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"skps-95.216.208.9.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇰🇷TG频道@oeo12免费订阅KR_1","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"shs.cnkizzc.eu.org"}},"server":"161.129.45.116","port":"34355","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vless","name":"default_name_42","server":"64.176.178.28","port":16027,"uuid":"d5618742-7d58-434c-8fe3-bf4e32a9113a","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_43","server":"70.34.212.65","port":35708,"uuid":"195d87b0-91d0-43e9-ba9c-6648491eff1f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_44","server":"216.128.179.161","port":15472,"uuid":"7d0fbe98-a451-48dd-aa4a-be6cc0e5ec6f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_48","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.82.158","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.184_2","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.184.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_45","server":"64.176.187.44","port":47430,"uuid":"c5c0c89d-3f9c-4681-b240-f3d281c64b1f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_49","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.159.21","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_46","server":"64.176.190.148","port":24748,"uuid":"d4b38195-7f8e-4a3e-8f2f-7e16b75fa389","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_50","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.115.43","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_47","server":"64.176.178.229","port":26023,"uuid":"e5353a1d-c059-4584-8086-a44ee94c1575","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_48","server":"64.176.178.178","port":28371,"uuid":"82105764-d543-43ac-bfd6-f8759313364a","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_51","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.53.42","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_52","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.84.108","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_49","server":"64.176.189.195","port":42794,"uuid":"5e492a0e-9032-4371-a242-dbea1625a710","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_15","server":"61.136.232.136","port":10814,"password":"e96b0c2b-98a8-4549-87d7-03beb17f2750","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.199","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"89.116.38.199","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_16","server":"tg_mfbpn_ppg1.52vpn.eu.org","port":10801,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_53","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.165","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_50","server":"64.176.180.221","port":30779,"uuid":"ec361807-b676-45b5-a6d8-39a5d60e63d9","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_54","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.198.139","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_51","server":"64.176.180.36","port":22479,"uuid":"ddc39322-2883-448c-8413-fc485b646f1d","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_55","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"154.197.106.28","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_52","server":"64.176.187.54","port":34606,"uuid":"3140a974-4cb8-495b-a387-f650566833d7","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_56","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.165","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_53","server":"64.176.181.130","port":29762,"uuid":"d1ad4346-76c7-415d-94d9-1aef10c0b2f2","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇺🇸89.116.38.190","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.190.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_54","server":"64.176.187.239","port":37334,"uuid":"a9c73fc4-42b8-4906-bed3-fc44ce5123a7","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_57","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"146.190.248.111","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_55","server":"64.176.187.44","port":47430,"uuid":"c5c0c89d-3f9c-4681-b240-f3d281c64b1f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_17","server":"tg_mfbpn_ppg1.52vpn.eu.org","port":10807,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_56","server":"64.176.179.200","port":26503,"uuid":"addf1917-afb1-4c11-b775-4649eeca5d50","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_57","server":"64.176.183.229","port":35982,"uuid":"1cddc4dd-da6d-4ecb-939b-898a0f2334c1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_58","http-opts":{"path":["/"]},"server":"95.216.208.9","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_58","server":"64.176.184.170","port":25994,"uuid":"a92b16d5-e2ee-44e9-a797-3ac12c805fee","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_59","http-opts":{"path":["/"]},"server":"5.161.63.110","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_59","server":"64.176.183.86","port":47328,"uuid":"04e29cf4-9f15-4822-a72a-bbf265d3b630","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_60","server":"64.176.186.234","port":16740,"uuid":"8ccc87a8-4db6-4261-9c55-ab43bf207e83","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_61","server":"70.34.202.155","port":37234,"uuid":"6bdb7693-89a3-4bb9-a042-b523a7c7ae38","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_60","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"168.119.233.151","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_18","server":"tg_mfbpn_ppg2.52vpn.eu.org","port":10818,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_61","http-opts":{"path":["/"]},"server":"5.78.99.140","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"ss","name":"🇨🇳TG频道+@oeo12+免费订阅CN_1","server":"starspeed.tbh.iosds.com","port":19290,"cipher":"chacha20-ietf-poly1305","password":"4f53bfbd-4968-4f27-8700-d323250848bb"}
-  - {"type":"vmess","name":"_62","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.190.191","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇫🇷TG频道@oeo12免费订阅FR_1","server":"15.188.253.107","port":22222,"password":"telegram-id-privatevpns","udp":true,"skip-cert-verify":true,"sni":"trj.rollingnext.co.uk","network":"tcp"}
-  - {"type":"vmess","name":"_63","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"165.227.47.171","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_64","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"65.21.241.85","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_62","server":"64.176.181.236","port":31883,"uuid":"6c899b0e-d8c5-479c-8b7b-9ea898c98ac8","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_19","server":"tg_mfbpn_ppg1.52vpn.eu.org","port":10802,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_65","http-opts":{"path":["/"]},"server":"5.161.225.26","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_63","server":"64.176.191.82","port":17769,"uuid":"b49d85c6-ce5f-4eda-9fa8-7a6ccdc7d2b0","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_66","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.78.68","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_7","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"ylsl.kxking.eu.org"}},"server":"8.218.156.91","port":"2053","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"_67","http-opts":{"path":["/"]},"server":"5.161.84.108","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_64","server":"64.176.189.196","port":25097,"uuid":"b511c5a6-bf57-469c-96da-3faad63d6b36","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_65","server":"64.176.183.103","port":42009,"uuid":"e237c810-2e71-4cef-aff4-1202995c4092","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_66","server":"64.176.183.113","port":17555,"uuid":"fd379891-9290-4d3a-9342-14a50581b530","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_67","server":"64.176.184.84","port":19470,"uuid":"9105e3f1-26ea-4117-88e7-4d705a69b796","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_68","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"135.181.200.222","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_68","server":"64.176.183.119","port":24170,"uuid":"cbd79cee-e078-40d1-8350-f551d515fff2","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_20","server":"tg_mfbpn_ppg3.52vpn.eu.org","port":10847,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_69","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.123.204","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_69","server":"64.176.179.161","port":26163,"uuid":"7e56b39d-7d1c-478e-a790-8e1c2942faa5","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_70","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.77.144","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇪🇸TG频道@oeo12免费订阅ES_1","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"sr2.kxking.eu.org"}},"server":"45.131.133.134","port":"80","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_70","server":"155.138.159.246","port":26640,"uuid":"89611d44-654d-4809-a921-2691ad43a081","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_71","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.138","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_71","server":"64.176.184.213","port":35029,"uuid":"0260f7f3-2e00-4b57-bc31-eaaa54aa2559","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_72","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.194.175","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_73","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"137.184.160.72","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_72","server":"155.138.139.190","port":27088,"uuid":"6a9d47f5-dab0-42ed-9b2b-ab0a7e12c6d7","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_74","http-opts":{"path":["/"]},"server":"5.161.80.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_73","server":"64.176.185.27","port":17373,"uuid":"fe17625f-4dcf-453d-ae5a-cebe8db5c564","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_74","server":"155.138.128.231","port":16590,"uuid":"4cf3fae0-2110-4b16-a5cc-bde3f140b2e5","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇺🇸TG频道@oeo12免费订阅US_4","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"ssrsub.v002.ssrsub.com"}},"server":"cf-lt.sharecentre.online","port":"8080","uuid":"d3f830a2-205a-4bba-a7ca-5e87899ac04d","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_75","server":"64.176.187.73","port":37665,"uuid":"f33f2cdd-53da-4035-925d-054355f3a846","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_76","server":"64.176.186.161","port":38749,"uuid":"c0656048-847d-4947-9ee1-cc2264af7da1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_75","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.102.30","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_77","server":"155.138.138.45","port":47632,"uuid":"4c0ce2b2-0528-4504-b640-ea43af7465c8","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_78","server":"64.176.188.214","port":37647,"uuid":"5fa28672-fa3c-487a-849c-deb781d71d91","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_21","server":"foshan.chiguayun.cc","port":27131,"cipher":"chacha20-ietf-poly1305","password":"d376f270-1807-4522-9f92-b499658a2678"}
-  - {"type":"vless","name":"default_name_79","server":"64.176.188.226","port":46030,"uuid":"fff98f38-1294-480a-8eb6-3b2f309e9262","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_76","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.244.228","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_80","server":"64.176.186.33","port":43322,"uuid":"b023fd2d-a3dc-48b2-a6c9-eefe68345d88","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_81","server":"64.176.186.184","port":21479,"uuid":"c5de4f0b-fa88-410b-883f-f0e1b3eef15c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_77","http-opts":{"path":["/"]},"server":"135.181.200.222","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇰🇷TG频道@oeo12免费订阅KR_2","ws-opts":{"path":"/315d825893fc34aca0231ab967157986","headers":{"host":"jxhoisldy718922.starnetcn.top"}},"server":"kr-cdn-6273819.starnetcn.top","port":"31235","uuid":"95e3c4c4-5540-4b2e-ac07-a7505f4a9313","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_82","server":"64.176.185.246","port":34626,"uuid":"39216396-abea-45ea-b27f-417636e8ed03","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇩🇪TG频道+@oeo12+免费订阅DE","server":"18.159.80.68","port":22222,"password":"telegram-id-privatevpns","udp":true,"skip-cert-verify":true,"sni":"trj.rollingnext.co.uk","network":"tcp"}
-  - {"type":"vless","name":"default_name_83","server":"64.176.165.76","port":15661,"uuid":"38d7cb86-3371-4c8e-8e58-3594ca6a6ee9","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_84","server":"unkn-95.216.169.207.nip.io","port":16122,"uuid":"1d087c80-5b66-4b9e-992d-a888ce4ca53f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_85","server":"216.128.185.68","port":33494,"uuid":"2ee0e59c-e3e4-4736-b037-dce564564abb","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_78","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.216.208.9","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_8","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"ylsl.kxking.eu.org"}},"server":"199.15.76.35","port":"443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_22","server":"tg_mfbpn_ppg3.52vpn.eu.org","port":10845,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"_79","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.217.220.239","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_23","server":"tg_mfbpn_ppg1.52vpn.eu.org","port":10806,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_86","server":"216.128.184.104","port":38125,"uuid":"06ae1098-ed2d-499f-acb0-1e946b48bc49","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_87","server":"64.176.184.213","port":35029,"uuid":"0260f7f3-2e00-4b57-bc31-eaaa54aa2559","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_88","server":"64.176.181.124","port":33183,"uuid":"b697b4ab-57b8-4aa3-9b7b-5288e070e646","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_80","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"rvn-159.89.112.235.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_81","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.138","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_82","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.82.52","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_89","server":"64.176.183.229","port":35982,"uuid":"1cddc4dd-da6d-4ecb-939b-898a0f2334c1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道+@oeo12+免费订阅CN_2","server":"uk.shawbrothersstudio.com","port":19923,"cipher":"chacha20-ietf-poly1305","password":"yCf03vE7phaImZaVjeAF3L"}
-  - {"type":"vless","name":"default_name_90","server":"64.176.179.13","port":16234,"uuid":"9fe18825-b065-4c52-8f8a-0e96264fd483","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_83","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"137.184.164.150","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_84","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.194.175","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_24","server":"jscm01.celerlink.one","port":41037,"cipher":"chacha20-ietf-poly1305","password":"a6692a28fdebb4e5"}
-  - {"type":"vless","name":"default_name_91","server":"64.176.188.253","port":33205,"uuid":"de438793-aa22-46e1-b4f2-0b1e22a08176","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_85","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"154.197.106.33","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_86","http-opts":{"path":["/"]},"server":"5.161.82.52","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"登陆ChatGPT","ws-opts":{"path":"/hls","headers":{"host":"baidu.com"}},"server":"s400l.cmcuct.org","port":"38802","uuid":"474c8836-ef4a-30cc-9bb1-6e8bbdf2b77e","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_92","server":"64.176.178.229","port":26023,"uuid":"e5353a1d-c059-4584-8086-a44ee94c1575","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_93","server":"155.138.157.30","port":43647,"uuid":"d2df13eb-5627-45d4-9a3a-8017d4d1d450","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_94","server":"64.176.187.89","port":43144,"uuid":"e0ee1931-913e-4830-874b-561c272baa92","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_25","server":"aliyun.ws","port":17345,"cipher":"chacha20-ietf-poly1305","password":"66bcb880-6b98-4861-8b93-43e3bedbf7a4"}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_26","server":"tg_mfbpn_ppg3.52vpn.eu.org","port":10836,"password":"264aca22-c2ce-4296-91a8-51bedd9669e2","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vless","name":"default_name_95","server":"137.220.55.251","port":47711,"uuid":"c46e413a-321c-45b6-ad1a-e689d3504d7e","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_96","server":"lmr-64.176.188.198.nip.io","port":26559,"uuid":"37ca6ed3-7025-4c7e-b5ad-baaa02a4942c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_97","server":"155.138.139.121","port":23965,"uuid":"3aa3be76-bed8-4b31-96da-96fb8ae89cba","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_87","http-opts":{"path":["/"]},"server":"5.78.77.144","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_88","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"154.197.106.22","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_98","server":"64.176.186.175","port":19481,"uuid":"8c2aca40-41ee-4915-abdc-896b4e2c6e33","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_89","http-opts":{"path":["/"]},"server":"5.161.116.241","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_99","server":"64.176.187.239","port":37334,"uuid":"a9c73fc4-42b8-4906-bed3-fc44ce5123a7","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_100","server":"64.176.184.69","port":28508,"uuid":"754e87aa-0e3e-461c-a820-c12ac6bc7cbe","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇪🇸TG频道@oeo12免费订阅ES_2","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"db.kxking.eu.org"}},"server":"45.131.133.134","port":"80","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vless","name":"default_name_101","server":"64.176.181.236","port":31883,"uuid":"6c899b0e-d8c5-479c-8b7b-9ea898c98ac8","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_102","server":"64.176.184.84","port":19470,"uuid":"9105e3f1-26ea-4117-88e7-4d705a69b796","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_103","server":"64.176.181.166","port":24359,"uuid":"d95dbca7-c480-472e-ad84-90d83583aaa9","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_104","server":"64.176.170.85","port":46820,"uuid":"5a203e34-6bc0-463b-884f-471fb7cbe43c","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_105","server":"64.176.188.226","port":46030,"uuid":"fff98f38-1294-480a-8eb6-3b2f309e9262","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_27","server":"foshan.chiguayun.cc","port":27133,"cipher":"chacha20-ietf-poly1305","password":"d376f270-1807-4522-9f92-b499658a2678"}
-  - {"type":"vless","name":"default_name_106","server":"64.176.191.254","port":24206,"uuid":"937a2000-4005-473a-b224-95bb7b882872","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"trojan","name":"🇨🇳TG频道@oeo12免费订阅CN_28","server":"61.136.232.6","port":10805,"password":"e96b0c2b-98a8-4549-87d7-03beb17f2750","udp":true,"skip-cert-verify":true,"sni":"alibaba-node.cn","network":"tcp"}
-  - {"type":"vmess","name":"🔯UPD_10.10.2023_14:05🔯","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.216.216.255","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"trojan","name":"🇫🇷TG频道@oeo12免费订阅FR_2","server":"13.38.169.131","port":22222,"password":"telegram-id-privatevpns","udp":true,"skip-cert-verify":true,"sni":"trj.rollingnext.co.uk","network":"tcp"}
-  - {"type":"vmess","name":"🇺🇸89.116.38.193","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.193.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_90","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"165.227.34.86","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_107","server":"64.176.169.173","port":37072,"uuid":"62802c2f-1b66-4adb-b610-be999939f509","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇪🇸TG频道@oeo12免费订阅ES_3","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"db.kxking.eu.org"}},"server":"45.131.133.134","port":"80","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_9","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"sr2.kxking.eu.org"}},"server":"8.218.156.91","port":"443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"_91","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"137.184.160.72","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_108","server":"64.176.185.194","port":15774,"uuid":"36002cf7-0cde-4035-badd-e2812b7dd7a7","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_92","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"shn-5.161.68.59.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_109","server":"64.176.163.38","port":41966,"uuid":"1001905a-a4ec-4772-8da4-8d85472db592","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_110","server":"149.248.60.31","port":15789,"uuid":"fbde0bc0-ac32-4956-ada5-a3be9f4bb01e","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_111","server":"64.176.188.136","port":35716,"uuid":"0883632b-5c78-4ef6-a68f-2c30160eea93","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_112","server":"64.176.184.208","port":27930,"uuid":"621b839d-5fa3-43d6-9edb-160a603a50ec","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_113","server":"64.176.187.73","port":37665,"uuid":"f33f2cdd-53da-4035-925d-054355f3a846","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_93","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.216.153.69","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_114","server":"155.138.154.211","port":22047,"uuid":"e0a3ef55-8c5d-4ccf-8197-111b20159ee5","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_115","server":"64.176.171.42","port":16948,"uuid":"087b9bb9-df88-4aa8-a21f-ad2b047914d1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_116","server":"149.248.51.185","port":39082,"uuid":"8b2fa1ee-74e2-42d7-9ef9-76afce603687","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vless","name":"default_name_117","server":"64.176.185.246","port":34626,"uuid":"39216396-abea-45ea-b27f-417636e8ed03","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_94","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"143.110.222.84","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_118","server":"64.176.184.191","port":44122,"uuid":"5a64adc6-67ae-4a9a-9a4b-bfcbb3a8af43","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"ss","name":"🇨🇳TG频道@oeo12免费订阅CN_29","server":"starspeed.tbh.iosds.com","port":19290,"cipher":"chacha20-ietf-poly1305","password":"4f53bfbd-4968-4f27-8700-d323250848bb"}
-  - {"type":"vless","name":"default_name_119","server":"64.176.183.86","port":47328,"uuid":"04e29cf4-9f15-4822-a72a-bbf265d3b630","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"_95","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.90.122","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vless","name":"default_name_120","server":"64.176.186.161","port":38749,"uuid":"c0656048-847d-4947-9ee1-cc2264af7da1","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
-  - {"type":"vmess","name":"🇭🇰TG频道@oeo12免费订阅HK_10","ws-opts":{"path":"/vm?ed=2048","headers":{"host":"zjg.kxking.eu.org"}},"server":"8.218.156.91","port":"8443","uuid":"a783230b-cd66-4492-9517-7f6cf569e1c9","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"_96","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"134.122.38.203","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
-  - {"type":"vmess","name":"_97","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.63.110","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_1","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"shn-5.161.68.59.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_2","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.134.174","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_3","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.144.194","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_4","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.65.41","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_5","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"95.216.156.175","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_6","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.93.224","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇺🇸TG频道@oeo12免费订阅US","ws-opts":{"path":"/@hopev2ray،@hopev2ray","headers":{"host":"de1vm.cdn-03.live"}},"server":"www.speedtest.net","port":"80","uuid":"6bf1b342-2bf0-4608-b288-8ee515e2d594","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"_7","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.75.200.138","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"ss","name":"🇨🇳TG频道+@oeo12+免费订阅CN_1","server":"free.themars.top","port":32103,"cipher":"chacha20-ietf-poly1305","password":"e6d130b1-1989-450a-a1d5-eb409d8fe3c6"}
+  - {"type":"vless","name":"default_name_1","server":"64.176.184.213","port":35029,"uuid":"0260f7f3-2e00-4b57-bc31-eaaa54aa2559","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_2","server":"64.176.186.234","port":16740,"uuid":"8ccc87a8-4db6-4261-9c55-ab43bf207e83","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_3","server":"155.138.146.38","port":33748,"uuid":"513dbbed-ce3d-41cc-9e2e-64cf0cc0e6e2","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_8","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"pvp-5.161.210.218.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_9","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.159.21","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_10","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.108.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_11","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.165","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_12","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.225.168","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_13","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.254.246","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_14","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.123.204","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_4","server":"70.34.223.192","port":18747,"uuid":"da8d1b4e-b454-4cc6-a4e3-17b356609f87","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_15","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.80.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_16","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.244.228","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_17","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.159.21","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_18","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.82.158","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_5","server":"216.128.177.188","port":34333,"uuid":"89d7cd81-9b18-46a5-8730-a756f89d4653","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_19","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.225.168","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_6","server":"216.128.185.62","port":47677,"uuid":"a4416256-b941-4ce2-afb1-a9cf531752d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_7","server":"70.34.212.65","port":35708,"uuid":"195d87b0-91d0-43e9-ba9c-6648491eff1f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_20","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"137.184.160.72","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_21","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"146.190.248.111","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_22","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.244.228","port":"443","uuid":"3d1fab6e-3bd6-472b-8d9c-9934c04eaf40","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_8","server":"155.138.138.45","port":47632,"uuid":"4c0ce2b2-0528-4504-b640-ea43af7465c8","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_23","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"137.184.160.72","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_24","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.123.204","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_25","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.77.144","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_26","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.108.181","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"🇺🇸89.116.38.184","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"sw-89.116.38.184.nip.io","port":"3456","uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_9","server":"216.128.184.104","port":38125,"uuid":"06ae1098-ed2d-499f-acb0-1e946b48bc49","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_27","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.102.30","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_28","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.210.136","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_10","server":"64.176.163.38","port":41966,"uuid":"1001905a-a4ec-4772-8da4-8d85472db592","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_11","server":"64.176.185.16","port":41568,"uuid":"59e4c413-084e-41d4-8f31-a847a6da8e50","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_12","server":"64.176.189.206","port":35666,"uuid":"6f4d195a-8ab2-434d-9bb0-cda98e0530d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_29","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.144.16","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_30","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.138","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_13","server":"64.176.189.206","port":35666,"uuid":"6f4d195a-8ab2-434d-9bb0-cda98e0530d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_31","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.116.241","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_14","server":"64.176.185.27","port":17373,"uuid":"fe17625f-4dcf-453d-ae5a-cebe8db5c564","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"🔴UPD_11.10.2023_9:15🔴","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.230.138","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_15","server":"65.20.112.238","port":37210,"uuid":"e46ccda3-ab59-469a-92ec-11ffeab4a0f6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_16","server":"64.176.185.16","port":41568,"uuid":"59e4c413-084e-41d4-8f31-a847a6da8e50","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_17","server":"unkn-95.216.169.207.nip.io","port":16122,"uuid":"1d087c80-5b66-4b9e-992d-a888ce4ca53f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_32","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"91.107.251.13","port":"443","uuid":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_18","server":"64.176.191.254","port":24206,"uuid":"937a2000-4005-473a-b224-95bb7b882872","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_33","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"skps-95.216.208.9.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_34","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.161.190.191","port":"2083","uuid":"90e968f5-58a5-42ce-a2de-c81894054563","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_19","server":"216.128.185.62","port":47677,"uuid":"a4416256-b941-4ce2-afb1-a9cf531752d6","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vless","name":"default_name_20","server":"155.138.159.246","port":26640,"uuid":"89611d44-654d-4809-a921-2691ad43a081","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_35","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"shn-5.161.68.59.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vless","name":"default_name_21","server":"51.81.210.121","port":29002,"uuid":"10c90766-3d47-4f69-a5f6-481611c0c4aa","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
+  - {"type":"vmess","name":"_36","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"pvp-5.161.230.138.nip.io","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"_37","http-opts":{"path":["/"],"headers":{"Host":["internet.life.com.by"]}},"server":"5.78.70.9","port":"3389","uuid":"9c050a86-d612-48f1-ec32-e573df08a1b7","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"ss","name":"🇨🇳TG频道+@oeo12+免费订阅CN_2","server":"foshan.chiguayun.cc","port":27120,"cipher":"chacha20-ietf-poly1305","password":"d376f270-1807-4522-9f92-b499658a2678"}
+  - {"type":"vless","name":"default_name_22","server":"64.176.187.44","port":47430,"uuid":"c5c0c89d-3f9c-4681-b240-f3d281c64b1f","skip-cert-verify":true,"network":"tcp","tls":false,"udp":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -302,285 +85,68 @@ proxy-groups:
       - DIRECT
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -589,285 +155,68 @@ proxy-groups:
     proxies:
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -876,285 +225,68 @@ proxy-groups:
       - 🎯 全球直连
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: 📲 电报信息
     type: select
     proxies:
@@ -1162,285 +294,68 @@ proxy-groups:
       - 🎯 全球直连
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -1448,285 +363,68 @@ proxy-groups:
       - 🚀 节点选择
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1734,285 +432,68 @@ proxy-groups:
       - 🎯 全球直连
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2037,285 +518,68 @@ proxy-groups:
       - ♻️ 自动选择
       - _1
       - _2
-      - 🇺🇸89.116.38.184_1
       - _3
       - _4
       - _5
       - _6
-      - 🇨🇳TG频道@oeo12免费订阅CN_1
+      - 🇺🇸TG频道@oeo12免费订阅US
       - _7
+      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
       - default_name_1
-      - _8
-      - _9
       - default_name_2
       - default_name_3
-      - 🇨🇳TG频道@oeo12免费订阅CN_2
-      - 🇨🇳TG频道@oeo12免费订阅CN_3
-      - default_name_4
-      - default_name_5
-      - default_name_6
-      - default_name_7
+      - _8
+      - _9
       - _10
-      - 🇨🇳TG频道@oeo12免费订阅CN_4
-      - default_name_8
       - _11
-      - default_name_9
       - _12
       - _13
-      - 🇨🇳TG频道@oeo12免费订阅CN_5
-      - default_name_10
       - _14
-      - default_name_11
-      - default_name_12
-      - default_name_13
-      - default_name_14
-      - default_name_15
-      - default_name_16
-      - 🇺🇸TG频道@oeo12免费订阅US_1
-      - 🇨🇳TG频道@oeo12免费订阅CN_6
+      - default_name_4
       - _15
       - _16
-      - default_name_17
-      - 🇨🇳TG频道@oeo12免费订阅CN_7
       - _17
-      - 🇺🇸TG频道@oeo12免费订阅US_2
-      - default_name_18
       - _18
-      - default_name_19
-      - default_name_20
-      - default_name_21
-      - default_name_22
-      - default_name_23
+      - default_name_5
       - _19
+      - default_name_6
+      - default_name_7
       - _20
       - _21
-      - 🇺🇸89.116.38.195
-      - 🇭🇰TG频道@oeo12免费订阅HK_1
-      - default_name_24
-      - 🇩🇪TG频道@oeo12免费订阅DE
-      - 🇨🇳TG频道@oeo12免费订阅CN_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_9
       - _22
-      - default_name_25
-      - default_name_26
+      - default_name_8
       - _23
       - _24
-      - 🇨🇳TG频道@oeo12免费订阅CN_10
-      - default_name_27
-      - 🇭🇰TG频道@oeo12免费订阅HK_2
-      - default_name_28
       - _25
       - _26
+      - 🇺🇸89.116.38.184
+      - default_name_9
       - _27
-      - default_name_29
-      - 🇺🇸89.116.38.192
       - _28
-      - 🇭🇰TG频道@oeo12免费订阅HK_3
-      - default_name_30
+      - default_name_10
+      - default_name_11
+      - default_name_12
       - _29
       - _30
-      - 🇺🇸89.116.38.198
-      - default_name_31
-      - 🇨🇳TG频道@oeo12免费订阅CN_11
+      - default_name_13
       - _31
+      - default_name_14
+      - 🔴UPD_11.10.2023_9:15🔴
+      - default_name_15
+      - default_name_16
+      - default_name_17
       - _32
+      - default_name_18
       - _33
-      - default_name_32
-      - default_name_33
-      - 🇭🇰TG频道@oeo12免费订阅HK_4
-      - default_name_34
       - _34
-      - default_name_35
+      - default_name_19
+      - default_name_20
       - _35
+      - default_name_21
       - _36
       - _37
-      - _38
-      - 🇨🇳TG频道@oeo12免费订阅CN_12
-      - default_name_36
-      - default_name_37
-      - _39
-      - _40
-      - default_name_38
-      - default_name_39
-      - default_name_40
-      - 🇭🇰TG频道@oeo12免费订阅HK_5
-      - _41
-      - 🇨🇳TG频道@oeo12免费订阅CN_13
-      - _42
-      - 🇨🇳TG频道@oeo12免费订阅CN_14
-      - default_name_41
-      - _43
-      - _44
-      - _45
-      - 🇭🇰TG频道@oeo12免费订阅HK_6
-      - 🇺🇸TG频道@oeo12免费订阅US_3
-      - _46
-      - _47
-      - 🇰🇷TG频道@oeo12免费订阅KR_1
-      - default_name_42
-      - default_name_43
-      - default_name_44
-      - _48
-      - 🇺🇸89.116.38.184_2
-      - default_name_45
-      - _49
-      - default_name_46
-      - _50
-      - default_name_47
-      - default_name_48
-      - _51
-      - _52
-      - default_name_49
-      - 🇨🇳TG频道@oeo12免费订阅CN_15
-      - 🇺🇸89.116.38.199
-      - 🇨🇳TG频道@oeo12免费订阅CN_16
-      - _53
-      - default_name_50
-      - _54
-      - default_name_51
-      - _55
-      - default_name_52
-      - _56
-      - default_name_53
-      - 🇺🇸89.116.38.190
-      - default_name_54
-      - _57
-      - default_name_55
-      - 🇨🇳TG频道@oeo12免费订阅CN_17
-      - default_name_56
-      - default_name_57
-      - _58
-      - default_name_58
-      - _59
-      - default_name_59
-      - default_name_60
-      - default_name_61
-      - _60
-      - 🇨🇳TG频道@oeo12免费订阅CN_18
-      - _61
-      - 🇨🇳TG频道+@oeo12+免费订阅CN_1
-      - _62
-      - 🇫🇷TG频道@oeo12免费订阅FR_1
-      - _63
-      - _64
-      - default_name_62
-      - 🇨🇳TG频道@oeo12免费订阅CN_19
-      - _65
-      - default_name_63
-      - _66
-      - 🇭🇰TG频道@oeo12免费订阅HK_7
-      - _67
-      - default_name_64
-      - default_name_65
-      - default_name_66
-      - default_name_67
-      - _68
-      - default_name_68
-      - 🇨🇳TG频道@oeo12免费订阅CN_20
-      - _69
-      - default_name_69
-      - _70
-      - 🇪🇸TG频道@oeo12免费订阅ES_1
-      - default_name_70
-      - _71
-      - default_name_71
-      - _72
-      - _73
-      - default_name_72
-      - _74
-      - default_name_73
-      - default_name_74
-      - 🇺🇸TG频道@oeo12免费订阅US_4
-      - default_name_75
-      - default_name_76
-      - _75
-      - default_name_77
-      - default_name_78
-      - 🇨🇳TG频道@oeo12免费订阅CN_21
-      - default_name_79
-      - _76
-      - default_name_80
-      - default_name_81
-      - _77
-      - 🇰🇷TG频道@oeo12免费订阅KR_2
-      - default_name_82
-      - 🇩🇪TG频道+@oeo12+免费订阅DE
-      - default_name_83
-      - default_name_84
-      - default_name_85
-      - _78
-      - 🇭🇰TG频道@oeo12免费订阅HK_8
-      - 🇨🇳TG频道@oeo12免费订阅CN_22
-      - _79
-      - 🇨🇳TG频道@oeo12免费订阅CN_23
-      - default_name_86
-      - default_name_87
-      - default_name_88
-      - _80
-      - _81
-      - _82
-      - default_name_89
       - 🇨🇳TG频道+@oeo12+免费订阅CN_2
-      - default_name_90
-      - _83
-      - _84
-      - 🇨🇳TG频道@oeo12免费订阅CN_24
-      - default_name_91
-      - _85
-      - _86
-      - 登陆ChatGPT
-      - default_name_92
-      - default_name_93
-      - default_name_94
-      - 🇨🇳TG频道@oeo12免费订阅CN_25
-      - 🇨🇳TG频道@oeo12免费订阅CN_26
-      - default_name_95
-      - default_name_96
-      - default_name_97
-      - _87
-      - _88
-      - default_name_98
-      - _89
-      - default_name_99
-      - default_name_100
-      - 🇪🇸TG频道@oeo12免费订阅ES_2
-      - default_name_101
-      - default_name_102
-      - default_name_103
-      - default_name_104
-      - default_name_105
-      - 🇨🇳TG频道@oeo12免费订阅CN_27
-      - default_name_106
-      - 🇨🇳TG频道@oeo12免费订阅CN_28
-      - 🔯UPD_10.10.2023_14:05🔯
-      - 🇫🇷TG频道@oeo12免费订阅FR_2
-      - 🇺🇸89.116.38.193
-      - _90
-      - default_name_107
-      - 🇪🇸TG频道@oeo12免费订阅ES_3
-      - 🇭🇰TG频道@oeo12免费订阅HK_9
-      - _91
-      - default_name_108
-      - _92
-      - default_name_109
-      - default_name_110
-      - default_name_111
-      - default_name_112
-      - default_name_113
-      - _93
-      - default_name_114
-      - default_name_115
-      - default_name_116
-      - default_name_117
-      - _94
-      - default_name_118
-      - 🇨🇳TG频道@oeo12免费订阅CN_29
-      - default_name_119
-      - _95
-      - default_name_120
-      - 🇭🇰TG频道@oeo12免费订阅HK_10
-      - _96
-      - _97
+      - default_name_22
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
