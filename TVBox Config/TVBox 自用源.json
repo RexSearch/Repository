@@ -2,13 +2,13 @@
 // 来源Ray线路
 
 {
-    "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5388d60fb0519fa359339c3252fa5e69",
-    "lives": [
+   "wallpaper": "https://xhdwc.tk/api/img.php",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5388d60fb0519fa359339c3252fa5e69",
+   "lives": [
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/aa1555/aa1555/main/Live/%E7%94%B5%E8%A7%86%E6%BA%90%20%E8%87%AA%E7%94%A8.m3u",
             "playerType": 1
         }
     ],
