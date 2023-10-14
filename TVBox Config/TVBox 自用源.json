@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🐼┃豆瓣┃小三自用",
+      "name": "🐼┃豆瓣┃自用",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -550,21 +550,14 @@
       "filterable": 0,
       "playerType": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "ext_live_protocol",
-      "name": "关注公众号“肥猫不肥”",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/协议.js",
-      "ext": "clan://proxy?sourcekey=ext_live_protocol"
     }
   ],
   "lives": [
     {
-      "name": "小三Live",
+      "name": "Live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/m3u/main/live.txt",
+      "url": "https://raw.githubusercontent.com/aa1555/aa1555/main/Live/%E7%94%B5%E8%A7%86%E6%BA%90%20%E8%87%AA%E7%94%A8.m3u",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
