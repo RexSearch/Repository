@@ -460,5 +460,7 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
 https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 
-#EXTINF:-1 group-title="收藏",家庭影院
-http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+
+
+收藏,#genre#
+家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
