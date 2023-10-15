@@ -2,8 +2,6 @@
 
 {"urls":
 [
-
-  
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json","name":"PizazzGY直播"},
 {"url":"http://饭太硬.top/tv","name": "饭太硬线"},
 {"url":"http://xhww.fun:63/小米/DEMO.json","name": "小暴脾气"},
@@ -50,7 +48,7 @@
 {"url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv2.json","name":"🌿刺桐"},
 {"url":"http://52bsj.vip:98/wuai","name":"🍃吾爱"},
 {"url":"https://yydsys.top/duo",{"name":"💞多多"},
-{"url":"http://rihou.cc:88/荷城茶秀","name":"🌷荷城茶秀"}，
+{"url":"http://rihou.cc:88/荷城茶秀","name":"🌷荷城茶秀"},
 {"url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒","name":"🌙月光宝盒"},
 {"url":"https://jihulab.com/ygbh1/box/-/raw/main/ys.json","name":"🌒月光宝盒影视"},
 {"url":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js.json","name":"🌃月光宝盒JS"},
@@ -84,7 +82,5 @@
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"☁云星"},
 {"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name":"🅱云星B站"},
 {"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt","name":"👭人人影视"},
-
-  
 ]
 }
