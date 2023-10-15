@@ -1,5 +1,20 @@
 收藏,#genre#
-家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CCTV-1 综合,https://cntv.sbs/tv?auth=231013&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=231013&id=cctv2
-CCTV-3 综艺,CCTV-3 综艺
+CCTV-3 综艺,https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV-5 体育，https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV-5+ 体育赛事，https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV-6 电影，https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV-7 国防军事，https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV-9 纪录,https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV-13 新闻,https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV-15 音乐,https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=231013&id=cctv17
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+
+
+
+电影,#genre#
+http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
