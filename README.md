@@ -14,7 +14,7 @@
 |  ----  | ----   | ----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
 | Clash  | [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) | [Clash_For_Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |  
-| Clash mate版  | [ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Clash 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
+| Clash Meta版  | [ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
 
 # 节点订阅
 
