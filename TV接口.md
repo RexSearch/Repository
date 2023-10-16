@@ -26,7 +26,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%
 
   一个国内可直连的直播源（信号非常好）：
 
-https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+  https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 - 项目地址：[biancangming/wtv](https://github.com/biancangming/wtv)
 
