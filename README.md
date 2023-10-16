@@ -1,7 +1,7 @@
 
 ![Watchers](https://img.shields.io/github/watchers/aa1555/Repository) ![Stars](https://img.shields.io/github/stars/aa1555/Repository) ![Forks](https://img.shields.io/github/forks/aa1555/Repository) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-[Repository intraduction](https://github.com/aa1555/Repository#Repositoryintraduction) | [Usage](https://github.com/aa1555/Repository#Usage) | [Proxy information](https://github.com/aa1555/Repository#Proxyinformation) | [Repository statement](https://github.com/aa1555/Repository#Repositorystatement)
+[Nodes](https://github.com/aa1555/Repository/tree/main/Nodes) | [TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | [TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) | [直播源](https://github.com/aa1555/Repository/tree/main/Live)
 
 <h1 align="center">节点订阅</h1>
 
