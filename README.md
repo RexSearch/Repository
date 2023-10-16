@@ -66,7 +66,13 @@
 
 多条订阅
 
+## TG群：OEO公益免费节点
 
+群地址：[点击进入](https://t.me/oeo12)
+
+- Clash：https://tt.vg/PZNLh
+
+- 通用：https://tt.vg/eHAmR
 
 
 
