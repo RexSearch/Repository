@@ -46,10 +46,25 @@
 
 - 通用base64/v2ray订阅：https://sub.pmsub.me/base64
 
+## mfuu / v2ray
 
+项目地址：[点击进入](https://github.com/mfuu/v2ray)
 
+- clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 
+- V2Ray订阅链接: https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  
+## Pawdroid/Free-servers
 
+项目地址：[点击进入](https://github.com/Pawdroid/Free-servers)
+
+- 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+
+## w1770946466/Auto_proxy
+
+项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
+
+多条订阅
 
 
 
