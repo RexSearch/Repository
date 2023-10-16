@@ -38,6 +38,13 @@
 
 - 通用base64/v2ray订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
+## Paimonhub / Nodpai
+
+项目地址：[点击进入](https://github.com/Paimonhub/Nodpai)
+
+- clash订阅：https://sub.pmsub.me/clash.yaml
+
+- 通用base64/v2ray订阅：https://sub.pmsub.me/base64
 
 
 
