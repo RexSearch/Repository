@@ -8,7 +8,7 @@
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | 
 [直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
 [TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) | 
-[Stars](https://github.com/aa1555?tab=stars)  | 
+[Stars](https://github.com/aa1555?tab=stars)  | [节点](https://github.com/aa1555/Repository/tree/main/Nodes)  |
 
 |  代理工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
