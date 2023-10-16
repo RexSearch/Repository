@@ -28,7 +28,7 @@
 
 # 收集的节点订阅
 
-项目地址：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
+来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - Clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
@@ -36,7 +36,7 @@
 
 <hr>
 
-项目地址：[ermaozi01 / free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn) 
+来源：[ermaozi01 / free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn) 
 
 - Clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 
@@ -44,7 +44,7 @@
 
 <hr>
 
-项目地址：[tbbatbb / Proxy](https://github.com/tbbatbb/Proxy) 
+来源：[tbbatbb / Proxy](https://github.com/tbbatbb/Proxy) 
 
 - Clash订阅链接:https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
   
@@ -52,7 +52,7 @@
 
 <hr>
 
-项目地址：[ripaojiedian / freenode](https://github.com/ripaojiedian/freenode)
+来源：[ripaojiedian / freenode](https://github.com/ripaojiedian/freenode)
 
 - Clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
@@ -60,7 +60,7 @@
 
 <hr>
 
-项目地址：[Paimonhub / Nodpai](https://github.com/Paimonhub/Nodpai)
+来源：[Paimonhub / Nodpai](https://github.com/Paimonhub/Nodpai)
 
 - Clash订阅：https://sub.pmsub.me/clash.yaml
 
@@ -68,7 +68,7 @@
 
 <hr>
 
-项目地址：[mfuu / v2ray](https://github.com/mfuu/v2ray)
+来源：[mfuu / v2ray](https://github.com/mfuu/v2ray)
 
 - Clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 
@@ -76,13 +76,13 @@
 
 <hr>
 
-项目地址：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
+来源：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
 
 - 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 
 <hr>
 
-项目地址：[ w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy)
+来源：[ w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
 <details>
   <summary>展开复制订阅链接</summary>
@@ -136,7 +136,7 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 
 <hr>
 
-TG群：[OEO公益免费节点](https://t.me/oeo12)
+来源：TG群[OEO公益免费节点](https://t.me/oeo12)
 
 - Clash订阅链接：https://tt.vg/PZNLh
 
