@@ -7,8 +7,8 @@
 [节点](https://github.com/aa1555/Repository/tree/main/Nodes) | 
 [TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | 
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | 
-[TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) | 
-[直播源](https://github.com/aa1555/Repository/tree/main/Live)
+[直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
+[TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) 
 
 <h1 align="center">节点订阅</h1>
 
