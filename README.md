@@ -73,57 +73,55 @@
 
 ## w1770946466/Auto_proxy
 
-### 永久高速订阅
-
 项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
 
 <details>
   <summary>展开复制clash订阅链接</summary>
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
 `合并节点总数: 910`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
 `合并节点总数: 114`
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
 `合并节点总数: 112`
 
 - [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml
 
 - [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml
 
 - [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml)
-`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`
+https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml
   
 </details>
 
