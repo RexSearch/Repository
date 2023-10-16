@@ -64,7 +64,7 @@
 
 项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
 
-多条订阅
+- 多条订阅
 
 ## TG群：OEO公益免费节点
 
