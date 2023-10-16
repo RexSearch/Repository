@@ -17,6 +17,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nod
 
 - clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
+- v2ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+
 ## ermaozi01 / free_clash_vpn
 
 项目地址：[点击进入](https://github.com/ermaozi01/free_clash_vpn) 
