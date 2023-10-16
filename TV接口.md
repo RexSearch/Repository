@@ -28,7 +28,7 @@
 
   一个国内可直连的直播源（信号非常好）：
 
-  https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+  直播源：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 - 项目地址：[biancangming/wtv](https://github.com/biancangming/wtv)
 
@@ -40,6 +40,10 @@
 
 - 项目地址：[dxawi/0](https://github.com/dxawi/0/blob/main/0.json)
 
-  https://raw.githubusercontent.com/dxawi/0/main/0.json
+  直播源：https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
+
+  TV Box接口：https://raw.githubusercontent.com/dxawi/0/main/0.json
+
+  
 
 
