@@ -9,13 +9,13 @@
 [直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
 [TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) 
 
-<h1 align="center">节点订阅</h1>
+# 节点订阅
 
 - Clash 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
 
 - V2Ray 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
-<h1 align="center">收集的节点订阅</h1>
+# 收集的节点订阅
 
 ## ermaozi /get_subscribe
 
