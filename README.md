@@ -75,7 +75,7 @@
 
 项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
 
-### 永久高速订阅数量: `8`
+### 永久高速订阅
 
 <details>
   <summary>展开复制clash订阅链接</summary>
