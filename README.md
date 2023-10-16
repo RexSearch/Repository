@@ -70,9 +70,9 @@
 
 群地址：[点击进入](https://t.me/oeo12)
 
-- Clash：https://tt.vg/PZNLh
+- Clash订阅链接：https://tt.vg/PZNLh
 
-- 通用：https://tt.vg/eHAmR
+- 通用订阅链接：https://tt.vg/eHAmR
 
 
 
