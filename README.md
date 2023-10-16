@@ -4,7 +4,6 @@
 ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository) 
 ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-[节点](https://github.com/aa1555/Repository/tree/main/Nodes) | 
 [TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | 
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | 
 [直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
