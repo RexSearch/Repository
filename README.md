@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
 `合并节点总数: 114`
 
-- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3)
+- 多协议Base64编码：
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3
 `合并节点总数: 114`
 
