@@ -12,9 +12,9 @@
 
 |  代理工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
-| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
-| Clash  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
-| Clash mete 版  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
+| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
+| Clash  | [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) | [Clash_For_Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |  
+| Clash mate版  | [ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Clash 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
 
 # 节点订阅
 
