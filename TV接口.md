@@ -36,5 +36,7 @@
 
 - 项目地址：[SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV)
 
+- 项目地址：[dxawi/0](https://github.com/dxawi/0/blob/main/0.json)
 
+  https://raw.githubusercontent.com/dxawi/0/main/0.json
 
