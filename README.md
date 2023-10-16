@@ -15,9 +15,6 @@
 
 - V2Ray 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
-# <details>
-<summary> 收集的节点订阅</summary>
-
 # 收集的节点订阅
 
 ## ermaozi /get_subscribe
@@ -135,16 +132,6 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 - Clash订阅链接：https://tt.vg/PZNLh
 
 - 通用订阅链接：https://tt.vg/eHAmR
-
-
-
-
-
-
-
-</details>
-
-
 
 
 
