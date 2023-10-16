@@ -11,7 +11,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nod
 
 # 收集的节点订阅
 
-项目来源：ermaozi /get_subscribe[点击进入](https://github.com/ermaozi/get_subscribe)
+项目来源：[点击进入](https://github.com/ermaozi/get_subscribe) ermaozi /get_subscribe
 
 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
