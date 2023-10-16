@@ -22,17 +22,17 @@
 
 项目地址：[点击进入](https://github.com/ermaozi/get_subscribe) 
 
-- clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+- Clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
-- v2ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+- V2ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 
 ## ermaozi01 / free_clash_vpn
 
 项目地址：[点击进入](https://github.com/ermaozi01/free_clash_vpn) 
 
-- clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
+- Clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 
-- v2ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
+- V2Ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
 
 ## tbbatbb / Proxy
 
@@ -46,7 +46,7 @@
 
 项目地址：[点击进入](https://github.com/ripaojiedian/freenode)
 
-- clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+- Clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
 - 通用base64/v2ray订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 
@@ -54,7 +54,7 @@
 
 项目地址：[点击进入](https://github.com/Paimonhub/Nodpai)
 
-- clash订阅：https://sub.pmsub.me/clash.yaml
+- Clash订阅：https://sub.pmsub.me/clash.yaml
 
 - 通用base64/v2ray订阅：https://sub.pmsub.me/base64
 
@@ -62,7 +62,7 @@
 
 项目地址：[点击进入](https://github.com/mfuu/v2ray)
 
-- clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+- Clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 
 - V2Ray订阅链接: https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
   
