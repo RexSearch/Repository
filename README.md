@@ -75,7 +75,57 @@
 
 项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
 
-- 多条订阅
+### 永久高速订阅数量: `8`
+
+<details>
+  <summary>展开复制clash订阅链接</summary>
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num`
+`Total number of merge nodes: 910`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7`
+`Total number of merge nodes: 114`
+
+- [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8`
+`Total number of merge nodes: 112`
+
+- [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1.yaml`
+
+- [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2.yaml`
+
+- [Clash 订阅链接](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml)
+`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`
+  
+</details>
 
 ## TG群：OEO公益免费节点
 
