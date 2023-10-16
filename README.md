@@ -1,10 +1,10 @@
 # 节点订阅
 
-## Clash 订阅链接
+- Clash 订阅链接
 
 https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
 
-## V2Ray 订阅链接
+- V2Ray 订阅链接
 
 https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
@@ -21,8 +21,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nod
 
 项目地址：[点击进入](https://github.com/ermaozi01/free_clash_vpn) 
 
-clash订阅链接：https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
+- clash订阅链接：https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 
-v2ray订阅链接：https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
+- v2ray订阅链接：https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
 
 
