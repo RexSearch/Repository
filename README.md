@@ -8,7 +8,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nod
 
 https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt
 
-
 # 收集的节点订阅
 
 ## ermaozi /get_subscribe
@@ -26,5 +25,41 @@ https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nod
 - clash订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 
 - v2ray订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
+
+## tbbatbb / Proxy
+
+项目地址：[点击进入](https://github.com/tbbatbb/Proxy) 
+
+- Clash订阅链接:https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+  
+- V2Ray订阅链接: https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
+
+## ripaojiedian / freenode
+
+项目地址：[点击进入](https://github.com/ripaojiedian/freenode)
+
+- clash订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+
+- 通用base64/v2ray订阅：https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
