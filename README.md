@@ -76,7 +76,7 @@
 项目地址：[点击进入](https://github.com/w1770946466/Auto_proxy)
 
 <details>
-  <summary>展开复制clash订阅链接</summary>
+  <summary>展开复制订阅链接</summary>
 
 - [多协议Base64编码](https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1)
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
