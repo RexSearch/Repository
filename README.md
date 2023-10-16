@@ -1,4 +1,4 @@
-# 节点订阅
+<h1 align="center">节点订阅</h1> 
 
 - Clash 订阅链接：https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt
 
