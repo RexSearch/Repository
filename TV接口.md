@@ -31,7 +31,7 @@
 
   <b>直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
 
-- <b>项目地址：</b>[2hacc/TVBox](https://github.com/2hacc/TVBox/tree/main)
+- <b>项目地址：</b>[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
   <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json`
 
