@@ -25,7 +25,7 @@
 
 
 
-|  代理工具  | Android  | Windows  |  
+|  代理工具  | 📱Android  | 🖥Windows  |  
 |  ----  | ----   | ----  |  
 | <p align="center"><b>v2ray</b></p> | <p align="center">[v2rayNG](https://github.com/2dust/v2rayNG/releases)</p> |<p align="center"> [v2rayN](https://github.com/2dust/v2rayN/releases)</p> |  
 | <p align="center"><b>Clash</b></p>  |<p align="center"> [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) </p>|<p align="center"> [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) </p>|  
