@@ -1,3 +1,4 @@
+<p>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> 
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aa1555/Repository"> 
@@ -9,7 +10,7 @@
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/aa1555/Repository"> 
 
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> 
-
+ </p>
 
 
 
