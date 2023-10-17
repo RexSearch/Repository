@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Telegram-logo.png?raw=true" height="38" width="38">Telegram群组</h1>
+<h1 align="center"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Telegram-logo.png?raw=true" height="35" width="35">Telegram群组</h1>
 
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
