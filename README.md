@@ -12,8 +12,7 @@
 
 |  代理工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
-| v2ray
-  | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
+| v2ray | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
 | Clash  | [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) | [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |  
 | Clash Meta版  | [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
 
