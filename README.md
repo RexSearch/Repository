@@ -3,7 +3,7 @@
 ![Forks](https://img.shields.io/github/forks/aa1555/Repository) 
 ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository) 
 ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
-<p align="center">
+
 | [节点](https://github.com/aa1555/Repository/tree/main/Nodes)  |
 [TV接口](https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md) | 
 [TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) | 
@@ -16,7 +16,7 @@
 | <p align="center"><b>Clash Meta</b></p>  |<p align="center"> [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) </p>|<p align="center"> [Clash Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) </p>|  
 
 <b>工具：</b>| [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) |
-</p>
+
 # 节点订阅
 
 - <b>Clash 订阅链接：</b>
