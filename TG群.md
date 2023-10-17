@@ -2,7 +2,17 @@
 
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
-<p align="center"><a href="https://t.me/tnews365">https://t.me/tnews365 </a></p>
+
+<div align="center">
+	<table border="1" cellspacing="2" style="width: 185px; border: 1.5000pt outset rgb(51,102,153)">
+		<tr>
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<p class="MsoNormal" align="center" style="text-align: center">
+			<a href="https://t.me/tnews365">https://t.me/tnews365</a></td>
+		</tr>
+	</table>
+</div>
+
 <hr>
 
 
