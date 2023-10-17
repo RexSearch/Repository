@@ -362,18 +362,23 @@
 <span style="font-family: 方正粗圆_GBK; color: rgb(0,0,0); letter-spacing: 0.0000pt; font-weight: bold; text-transform: none; font-style: normal; font-size: 24.0000pt; background: rgb(255,255,255)">
 
 <font face="方正粗圆_GBK">TG群搜索</font></span></b></h1>
+
 <div align="center">
-	<table border="1" cellspacing="2" style="width: 508.5000pt; border: 1.5000pt outset rgb(51,102,153)">
+	<table border="1" cellspacing="2" style="width: 760px; border: 1.5000pt outset rgb(51,102,153)">
 		<tr>
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://telemetr.io/en/channels">Telemetrio</a></span></td>
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<p align="center"><a href="https://new.telemetr.io/en/channels">
+			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
+			Telemetrio new</span></a></td>
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://tgstat.com/">TGStat</a></span></td>
-			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt" width="209">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://www.tg-me.com/">Telegram Group Search</a></span></td>
