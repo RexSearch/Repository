@@ -33,7 +33,7 @@
 
 ### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
-  <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json`
+- <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json`
 
   <b>小雅接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json`
 
