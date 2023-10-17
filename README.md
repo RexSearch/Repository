@@ -56,7 +56,7 @@
 <details>
   <summary><b>展开</b></summary>
 
-#### 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
+### 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - <b>Clash订阅链接：</b>
 
