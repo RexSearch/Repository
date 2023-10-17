@@ -43,7 +43,7 @@
 
   专注于收集影视源，直播源
 
-  TV Box单仓：`https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93`
+  TV Box单仓:`https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93`
 
   单仓2：`https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%932`
 
