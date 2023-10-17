@@ -110,7 +110,7 @@
 
  - <b>Clash订阅：</b>
  
- `https://sub.pmsub.me/clash.yaml`
+   `https://sub.pmsub.me/clash.yaml`
 
 - <b>通用base64/v2ray订阅：</b>
 
