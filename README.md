@@ -22,10 +22,9 @@
 
 - <b>Clash 订阅链接：</b>
 
-
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt`
 
-- V2Ray 订阅链接：
+- <b>V2Ray 订阅链接：</b>
 
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt`
 
@@ -34,7 +33,7 @@
 # 收集的节点订阅
 
 <details>
-  <summary>展开</summary>
+  <summary><b>展开</b></summary>
 
 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
