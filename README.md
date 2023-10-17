@@ -28,7 +28,7 @@
 |  代理工具  | 📱Android  | 🖥Windows  |  
 |  ----  | ----   | ----  |  
 | <p align="center"><b>v2ray</b></p> | <p align="center">[v2rayNG](https://github.com/2dust/v2rayNG/releases)</p> |<p align="center"> [v2rayN](https://github.com/2dust/v2rayN/releases)</p> |  
-| <p align="center"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Clash_Logo.png?raw=true" height="35" width="35"><b>Clash</b></p>  |<p align="center"> [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) </p>|<p align="center"> [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) </p>|  
+| <p align="center"><b>Clash</b></p>  |<p align="center"> [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) </p>|<p align="center"> [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) </p>|  
 | <p align="center"><b>Clash Meta</b></p>  |<p align="center"> [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) </p>|<p align="center"> [Clash Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) </p>|  
 
 
