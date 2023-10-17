@@ -13,10 +13,10 @@
 |  代理工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
 | <p align="center">v2ray</p> | [v2rayNG](https://github.com/2dust/v2rayNG/releases) | [v2rayN](https://github.com/2dust/v2rayN/releases) |  
-| Clash  | [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) | [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |  
-| Clash Meta版  | [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
+| <p align="center">Clash</p>  | [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases) | [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |  
+| <p align="center">Clash Meta版</p>  | [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [Meta 内核](https://github.com/MetaCubeX/Clash.Meta/releases) |  
 
-工具：| [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) |
+<b>工具：</b>| [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) |
 
 # 节点订阅
 
