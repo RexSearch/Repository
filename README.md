@@ -35,6 +35,8 @@
 <details>
   <summary><b>展开</b></summary>
 
+  <br>
+
 <b>来源：</b>[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - <b>Clash订阅链接：</b>
@@ -124,8 +126,6 @@
 - <b>通用订阅链接：</b>
 
   `https://tt.vg/eHAmR`
-
-<hr>
 
 <b>来源：</b>[ w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
