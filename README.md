@@ -20,7 +20,8 @@
 
 # 节点订阅
 
-- Clash 订阅链接：
+- <b>Clash 订阅链接：</b>
+
 
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt`
 
