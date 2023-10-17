@@ -33,7 +33,7 @@
 # 收集的节点订阅
 
 <details>
-  <summary></summary>
+  <summary>展开</summary>
 
 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
