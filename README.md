@@ -12,6 +12,8 @@
 
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> 
 
+  <img alt="GitHub" src="https://img.shields.io/github/license/aa1555/Repository">
+
 </p>
 
 
