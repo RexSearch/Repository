@@ -25,13 +25,13 @@
 
 # 收集的TV接口
 
-### - <b>项目地址：</b>[fanmingming/live](https://github.com/fanmingming/live)
+### 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
   一个国内可直连的直播源（信号非常好）：
 
-  <b>直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
+- <b>直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
 
-- <b>项目地址：</b>[2hacc/TVBox](https://github.com/2hacc/TVBox)
+### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
   <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json`
 
