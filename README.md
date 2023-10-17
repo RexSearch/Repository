@@ -112,6 +112,18 @@
 
 <hr>
 
+来源：TG群[OEO公益免费节点](https://t.me/oeo12)
+
+- Clash订阅链接：
+
+  `https://tt.vg/PZNLh`
+
+- 通用订阅链接：
+
+  `https://tt.vg/eHAmR`
+
+<hr>
+
 来源：[ w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
 <details>
@@ -184,19 +196,5 @@
   `https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`
   
 </details>
-
-<hr>
-
-来源：TG群[OEO公益免费节点](https://t.me/oeo12)
-
-- Clash订阅链接：
-
-  `https://tt.vg/PZNLh`
-
-- 通用订阅链接：
-
-  `https://tt.vg/eHAmR`
-
-
 
 
