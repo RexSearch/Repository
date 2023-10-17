@@ -37,7 +37,7 @@
 
   <b>小雅接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json`
 
- <b> 海外直播源：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt`
+  <b> 海外直播源：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt`
 
 - <b>项目地址：</b>[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
