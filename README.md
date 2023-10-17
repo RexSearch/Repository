@@ -1,18 +1,17 @@
-<p align="center"> 
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> 
 
- <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aa1555/Repository"> 
 
- <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aa1555/Repository"> 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/aa1555/Repository">
 
- <img alt="GitHub forks" src="https://img.shields.io/github/forks/aa1555/Repository">
+<img alt="GitHub Vistors" src="https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository">
 
- <img alt="GitHub Vistors" src="https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/aa1555/Repository"> 
 
- <img alt="GitHub issues" src="https://img.shields.io/github/issues/aa1555/Repository"> 
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> 
 
- <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> 
 
-</p>
+
 
 | [节点](https://github.com/aa1555/Repository/tree/main/Nodes)  |
 [TV接口](https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md) | 
