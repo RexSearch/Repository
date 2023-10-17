@@ -11,7 +11,7 @@
 ### TV Box接口
 
 - 单仓:
-  https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json
+  `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json`
 
 - 单仓2：https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json
 
