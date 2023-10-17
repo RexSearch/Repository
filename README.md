@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> 
 
@@ -16,12 +16,10 @@
 
 
 
-
 | [节点](https://github.com/aa1555/Repository/tree/main/Nodes)  | 
 [TV接口](https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md) | 
 [TG群](https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md) | 
 [Stars](https://github.com/aa1555?tab=stars)  | 
-
 
 
 
@@ -33,11 +31,9 @@
 
 
 
-
 <b>工具：</b>| [订阅转换](https://bianyuan.xyz/) | [节点转Clash](https://v1.v2rayse.com/v2ray-clash/) | [Base64编码解码](https://tool.oschina.net/encrypt?type=3) |
 
 <hr>
-
 
 
 
@@ -52,6 +48,8 @@
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt`
 
 <hr>
+
+
 
 # 收集的节点订阅
 
