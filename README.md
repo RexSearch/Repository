@@ -43,13 +43,17 @@
 
 # 节点订阅
 
-- <b>Clash 订阅链接：</b>
+<details>
+  
+  <summary><b>展开</b></summary>
 
-  `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt`
+- <b>Clash 订阅链接：</b>
+ `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt`
 
 - <b>V2Ray 订阅链接：</b>
+ `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt`
 
-  `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt`
+</details>
 
 <hr>
 
