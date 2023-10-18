@@ -1,10 +1,10 @@
-| [直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
+| [📺直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
 [TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | 
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | [直播源格式转换](https://guihet.com/tvlistconvert.html) | 
 
 # 自用
 
-### 直播源
+### 📺直播源
 
 - `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Live/%E7%9B%B4%E6%92%AD%E6%BA%90%20%E8%87%AA%E7%94%A8.m3u`
 
@@ -31,7 +31,7 @@
 
   一个国内可直连的直播源（信号非常好）：
 
-- <b>直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
+- <b>📺直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
 
 ### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
@@ -39,7 +39,7 @@
 
 - <b>小雅接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/xiaoya.json`
 
-- <b> 海外直播源：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt`
+- <b> 📺海外直播源：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/hlive.txt`
 
 ### 项目地址：[mengzehe/TVBox](https://github.com/mengzehe/TVBox)
 
@@ -51,7 +51,7 @@
 
 ### 项目地址：[dxawi/0](https://github.com/dxawi/0)
 
-- <b>直播源</b>（信号不错）：`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt`
+- <b>📺直播源</b>（信号不错）：`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt`
 
 - <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json`
 
