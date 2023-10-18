@@ -239,11 +239,11 @@
 
 - 后面接raw地址：`https://ghproxy.com/`
 
-  或者打开https://ghproxy.com输入github raw链接
+  或者打开网站输入github raw链接：https://ghproxy.com
 
 - 后面接raw地址：`https://ghproxy.net/`
 
-  或者打开https://ghproxy.net输入github raw链接
+  或者打开网站输入github raw链接：https://ghproxy.net
 
 - `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
 
