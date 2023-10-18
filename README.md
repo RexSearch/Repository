@@ -245,4 +245,6 @@
 
 - `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
 
+  或者输入github raw链接生产加速链接：https://www.jsdelivr.com/github
+
 </details>
