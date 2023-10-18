@@ -145,7 +145,9 @@
   
   `https://raw.fastgit.org/`
 
- 
+ - 后面接用户名/后面部分,同时把main前面的/改成@
+
+   `https://cdn.jsdelivr.net/gh/`
 
 </details>
 
