@@ -2,7 +2,7 @@
 [TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | 
 [ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | [直播源格式转换](https://guihet.com/tvlistconvert.html) | [加密接口解析提取](https://www.lige.fit/ua) | [TVBox配置编辑器](http://qiqiv.cn/tvbox/) | [TXT文本处理工具](http://www.txttool.com/)
 
-# 自用
+## 自用
 
 <details>
   
@@ -31,7 +31,7 @@
 
 <hr>
 
-# 收集的TV接口
+## 收集的TV接口
 
 <details>
   
@@ -69,25 +69,83 @@
 
 <hr>
 
+## TVBox各路大佬配置（排名不分先后）：
+
+<details>
+  
+  <summary><b>展开</b></summary>
+
+- 唐三：https://hutool.ml/tang
+
+- Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+
+- 俊于：http://home.jundie.top:81/top98.json
+
+- 饭太硬：http://饭太硬.ga/x/o.json
+
+- 霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+
+- 小雅dr：http://drpy.site/js1
+
+- 菜妮丝：https://tvbox.cainisi.cf
+
+- 神器：https://神器每日推送.tk/pz.json
+
+- 巧技：http://pandown.pro/tvbox/tvbox.json
+
+- 刚刚：http://刚刚.live/猫
+
+- 吾爱有三：http://52bsj.vip:98/0805
+
+- 潇洒：https://download.kstore.space/download/2863/01.txt
+
+- 佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+
+- 胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+
+- 云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+
+- Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+- BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+- 哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
+
+- UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+
+- 木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
+
+- Ray：https://dxawi.github.io/0/0.json
+
+- 甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+- 52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+- 肥猫：http://我不是.肥猫.love:63
+
+</details>
+
+<hr>
+
 ## Github RAW 加速服务 
 
 <details>
   
   <summary><b>展开</b></summary>
 
-- 后面接raw地址
-  
-  `https://ghproxy.com/`
+- 后面接raw地址：`https://ghproxy.com/`
 
-- 后面接raw地址
+  或者打开网站输入github raw链接：https://ghproxy.com
 
-  `https://ghproxy.net/`
+- 后面接raw地址：`https://ghproxy.net/`
 
-- 后面接用户名/后面部分
-  
-  `https://raw.fastgit.org/`
+  或者打开网站输入github raw链接：https://ghproxy.net
 
- 
+- `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
+
+  或者打开网站输入github raw链接生产加速链接：https://www.jsdelivr.com/github
+
+- `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
 
 </details>
 
