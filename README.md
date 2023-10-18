@@ -73,7 +73,7 @@
 
 <hr>
 
-### 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
+### 来源：[get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - <b>Clash订阅链接：</b>
  `https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml`
@@ -83,7 +83,7 @@
 
 <hr>
 
-### 来源：[ermaozi01 / free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn)
+### 来源：[free_clash_vpn](https://github.com/ermaozi01/free_clash_vpn)
 
 - <b>Clash订阅链接：</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml`
@@ -93,7 +93,7 @@
 
 <hr>
 
-### 来源：[tbbatbb / Proxy](https://github.com/tbbatbb/Proxy) 
+### 来源：[Proxy](https://github.com/tbbatbb/Proxy) 
 
 - <b>Clash订阅链接:</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml`
@@ -103,7 +103,7 @@
 
 <hr>
 
-### 来源：[ripaojiedian / freenode](https://github.com/ripaojiedian/freenode)
+### 来源：[freenode](https://github.com/ripaojiedian/freenode)
 
 - <b>Clash订阅：</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash`
@@ -113,7 +113,7 @@
 
 <hr>
 
-### 来源：[Paimonhub / Nodpai](https://github.com/Paimonhub/Nodpai)
+### 来源：[Nodpai](https://github.com/Paimonhub/Nodpai)
 
  - <b>Clash订阅：</b>
    `https://sub.pmsub.me/clash.yaml`
@@ -124,7 +124,7 @@
 
 <hr>
 
-### 来源：[mfuu / v2ray](https://github.com/mfuu/v2ray)
+### 来源：[v2ray](https://github.com/mfuu/v2ray)
 
 - <b>Clash订阅：</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml`
@@ -134,7 +134,7 @@
 
 <hr>
 
-### 来源：[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)
+### 来源：[Free-servers](https://github.com/Pawdroid/Free-servers)
 
 - <b>订阅链接：</b>
    `https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub`
@@ -153,7 +153,7 @@
 
 <hr>
 
-### 来源：[ w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy)
+### 来源：[Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
 <details>
   
