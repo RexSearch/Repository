@@ -4,6 +4,10 @@
 
 # 自用
 
+<details>
+  
+  <summary><b>展开</b></summary>
+
 ### 📺直播源
 
 - `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Live/%E7%9B%B4%E6%92%AD%E6%BA%90%20%E8%87%AA%E7%94%A8.m3u`
@@ -23,9 +27,15 @@
 
 - `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E7%B2%BE%E9%80%89%E8%87%AA%E7%94%A8.json`
 
+</details>
+
 <hr>
 
 # 收集的TV接口
+
+<details>
+  
+  <summary><b>展开</b></summary>
 
 ### 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
@@ -54,6 +64,8 @@
 - <b>📺直播源</b>（信号不错）：`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt`
 
 - <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json`
+
+</details>
 
 <hr>
 
