@@ -237,13 +237,9 @@
   
   <summary><b>展开</b></summary>
 
-- 后面接raw地址
-  
-  `https://ghproxy.com/`
+- 后面接raw地址：`https://ghproxy.com/`
 
-- 后面接raw地址
-
-  `https://ghproxy.net/`
+- 后面接raw地址：`https://ghproxy.net/`
 
 - `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
 
