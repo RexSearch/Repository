@@ -232,4 +232,4 @@
 
 `https://raw.fastgit.org/用户名/后面部分`
 
-`https://ghproxy.com/github直链`
+`https://ghproxy.com/链接地址`
