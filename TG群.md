@@ -379,7 +379,7 @@
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
-			<a href="https://new.telemetr.io">Telemetrio</a></span></td>
+			<a href="https://telemetr.io/en/channels">Telemetrio</a></span></td>
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p align="center"><a href="https://new.telemetr.io/en/channels">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
