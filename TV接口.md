@@ -133,21 +133,13 @@
   
   <summary><b>展开</b></summary>
 
-- 后面接raw地址
-  
-  `https://ghproxy.com/`
+- 后面接raw地址：`https://ghproxy.com/`
 
-- 后面接raw地址
+- 后面接raw地址：`https://ghproxy.net/`
 
-  `https://ghproxy.net/`
+- `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
 
-- 后面接用户名/后面部分
-  
-  `https://raw.fastgit.org/`
-
- - 后面接用户名/后面部分,同时把main前面的/改成@
-
-   `https://cdn.jsdelivr.net/gh/`
+- `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
 
 </details>
 
