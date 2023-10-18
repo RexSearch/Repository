@@ -245,12 +245,8 @@
 
   `https://ghproxy.net/`
 
-- 后面接用户名/后面部分
-  
-  `https://raw.fastgit.org/`
+- `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
 
- - 后面接用户名/后面部分,同时把main前面的/改成@
-
-   `https://cdn.jsdelivr.net/gh/`
+- `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
 
 </details>
