@@ -230,6 +230,10 @@
 
 
 # Github RAW 加速服务 
+
+<details>
+  
+  <summary><b>展开</b></summary>
   
  源码 `https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件` 
   
@@ -262,3 +266,5 @@
  `https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件` 
   
  `https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
+
+</details>
