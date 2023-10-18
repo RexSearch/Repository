@@ -1,8 +1,18 @@
-<h1 align="center">Telegram群组</h1>
+<h1 align="center"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Telegram-logo.png?raw=true" height="35" width="35">Telegram群组</h1>
 
 <h2 align="center"><b><font face="宋体">
 <span style="font-family: 宋体; font-weight: bold; font-size: 18.0000pt">竹新社</span></font></b></h2>
-<p align="center"><a href="https://t.me/tnews365">https://t.me/tnews365 </a></p>
+
+<div align="center">
+	<table border="1" cellspacing="2" style="width: 185px; border: 1.5000pt outset rgb(51,102,153)">
+		<tr>
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<p class="MsoNormal" align="center" style="text-align: center">
+			<a href="https://t.me/tnews365">https://t.me/tnews365</a></td>
+		</tr>
+	</table>
+</div>
+
 <hr>
 
 
@@ -361,19 +371,24 @@
 <b>
 <span style="font-family: 方正粗圆_GBK; color: rgb(0,0,0); letter-spacing: 0.0000pt; font-weight: bold; text-transform: none; font-style: normal; font-size: 24.0000pt; background: rgb(255,255,255)">
 
-<font face="方正粗圆_GBK">TG群搜索</font></span></b></h1>
+<font face="方正粗圆_GBK"><img src="https://github.com/aa1555/Repository/blob/main/Misc/Telegram-logo.png?raw=true" height="35" width="35">TG群搜索</font></span></b></h1>
+
 <div align="center">
-	<table border="1" cellspacing="2" style="width: 508.5000pt; border: 1.5000pt outset rgb(51,102,153)">
+	<table border="1" cellspacing="2" style="width: 760px; border: 1.5000pt outset rgb(51,102,153)">
 		<tr>
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://new.telemetr.io">Telemetrio</a></span></td>
 			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<p align="center"><a href="https://new.telemetr.io/en/channels">
+			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
+			New Telemetrio</span></a></td>
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://tgstat.com/">TGStat</a></span></td>
-			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt">
+			<td valign="center" style="border: 1.0000pt outset rgb(0,102,102); padding: 0.7500pt" width="209">
 			<p class="MsoNormal" align="center" style="text-align: center">
 			<span style="font-family: Verdana; font-style: normal; font-size: 12.0000pt">
 			<a href="https://www.tg-me.com/">Telegram Group Search</a></span></td>
