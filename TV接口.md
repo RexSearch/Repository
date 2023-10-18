@@ -55,7 +55,29 @@
 
 - <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json`
 
+<hr>
 
+## Github RAW 加速服务 
+
+<details>
+  
+  <summary><b>展开</b></summary>
+
+- 后面接raw地址
+  
+  `https://ghproxy.com/`
+
+- 后面接raw地址
+
+  `https://ghproxy.net/`
+
+- 后面接用户名/后面部分
+  
+  `https://raw.fastgit.org/`
+
+ 
+
+</details>
 
   
 
