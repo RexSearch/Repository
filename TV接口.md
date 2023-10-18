@@ -55,7 +55,7 @@
 
 - <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json`
 
-### 项目地址：[ChiSheng9/iptv](https://github.com/ChiSheng9/iptv)
+
 
   
 
