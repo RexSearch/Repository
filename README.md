@@ -228,7 +228,7 @@
 
 </details>
 
-## GitHub加速
+# GitHub加速
 
 `https://raw.fastgit.org/用户名/后面部分`
 
