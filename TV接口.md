@@ -135,13 +135,17 @@
 
 - 后面接raw地址：`https://ghproxy.com/`
 
+  或者打开网站输入github raw链接：https://ghproxy.com
+
 - 后面接raw地址：`https://ghproxy.net/`
 
-- `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
+  或者打开网站输入github raw链接：https://ghproxy.net
 
 - `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
 
-    或者打开网站输入github raw链接生产加速链接：https://www.jsdelivr.com/github
+  或者打开网站输入github raw链接生产加速链接：https://www.jsdelivr.com/github
+
+- `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
 
 </details>
 
