@@ -27,7 +27,7 @@
 
 - `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%90%20%E7%B2%BE%E9%80%89%E8%87%AA%E7%94%A8.json`
 
-`https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%902.json`
+  `https://raw.githubusercontent.com/aa1555/Repository/main/ZY%20Player%20Config/ZY%20Player%20%E6%95%B0%E6%8D%AE%E6%BA%902.json`
 
 </details>
 
