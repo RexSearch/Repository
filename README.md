@@ -237,16 +237,18 @@
   
   <summary><b>展开</b></summary>
 
-- `https://ghproxy.com/`
+- 后面接raw地址
+  
+  `https://ghproxy.com/`
 
-  后面接raw地址
+- 后面接raw地址
 
-- `https://ghproxy.net/`
+  `https://ghproxy.net/`
 
-  后面接raw地址
+- 后面接用户名/后面部分
+  
+  `https://raw.fastgit.org/`
 
-- `https://raw.fastgit.org/`
-
-  后面接用户名/后面部分
+ 
 
 </details>
