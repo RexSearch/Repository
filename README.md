@@ -59,7 +59,7 @@
 
 
 
-# 节点订阅
+## 节点订阅
 
 <details>
   
@@ -72,8 +72,6 @@
  `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/V2Ray.txt`
 
 <hr>
-
-# 收集的节点订阅
 
 ### 来源：[ermaozi /get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
@@ -232,7 +230,7 @@
 </details>
 
 
-# Github RAW 加速服务 
+## Github RAW 加速服务 
 
 <details>
   
