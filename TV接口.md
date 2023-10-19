@@ -45,6 +45,10 @@
 
 - <b>📺直播源：</b>`https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u`
 
+### 项目地址：[imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+
+  直播源非常丰富，覆盖全球（不过好像停更了）
+
 ### 项目地址：[2hacc/TVBox](https://github.com/2hacc/TVBox)
 
 - <b>TV Box接口：</b>`https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json`
