@@ -1,6 +1,19 @@
-[📺直播源](https://github.com/aa1555/Repository/tree/main/Live) | 
-[TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) | 
-[ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) | [直播源格式转换](https://guihet.com/tvlistconvert.html) | [加密接口解析提取](https://www.lige.fit/ua) | [TVBox配置编辑器](http://qiqiv.cn/tvbox/) | [TXT文本处理工具](http://www.txttool.com/)
+[📺直播源](https://github.com/aa1555/Repository/tree/main/Live) 
+
+[📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) 
+
+
+[📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) 
+
+[📺直播源格式转换](https://guihet.com/tvlistconvert.html) 
+
+[📺加密接口解析提取](https://www.lige.fit/ua) 
+
+[📺TVBox配置编辑器](http://qiqiv.cn/tvbox/) 
+
+[📺TXT文本处理工具](http://www.txttool.com/)
+
+[📺国内外电视频道直播源搜索]( https://www.foodieguide.com/iptvsearch)
 
 ## 自用
 
@@ -155,16 +168,6 @@
 
 </details>
 
-## 电视直播源搜索引擎
 
-<details>
-  
-  <summary><b>展开</b></summary>
-
-- 国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新
-
-  https://www.foodieguide.com/iptvsearch
-
- </details>
 
 
