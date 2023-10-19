@@ -157,10 +157,14 @@
 
 ## 电视直播源搜索引擎
 
+<details>
+  
+  <summary><b>展开</b></summary>
+
 - 国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新
 
   https://www.foodieguide.com/iptvsearch
 
-  
+ </details>
 
 
