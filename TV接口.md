@@ -26,13 +26,13 @@
 
 ### TV Box接口
 
-- <b>单仓:</b>
+- <b>🗂单仓:</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%93.json`
 
-- <b>单仓2：</b>
+- <b>🗂单仓2：</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E4%BB%932.json`
 
-- <b>多仓：</b>
+- <b>🗂多仓：</b>
   `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/TV%20Box%20Config/TVBox%20%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93.json`
 
 ### ZY Player 接口
