@@ -151,7 +151,11 @@
 
 </details>
 
-  
+# 电视直播源搜索引擎
+
+- https://www.foodieguide.com/iptvsearch
+
+  国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新
 
   
 
