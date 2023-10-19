@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1,TVBS新闻
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1,李子柒
+http://lxajh.top/tv/douyu.php?id=2901080
+#EXTINF:-1,小莉帮忙
+http://media2.hndt.com/data_01/1/3/2023/01/15/1f2b16f5ca922e4f442d54b7ea6c9643.mp4
+#EXTINF:-1,海峡两岸
+http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
+#EXTINF:-1,TVBS新闻
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1,中天新闻
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1,三立新闻
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1,东森新闻
+https://www.youtube.com/watch?v=S5WOGu2HSes
+#EXTINF:-1,寰宇新闻
+https://www.youtube.com/watch?v=B7Zp3d6xXWw
+#EXTINF:-1,民视新闻
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1,华视新闻
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1,公视新闻
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1,台视新闻
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1,中视新闻
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1,TVBS Live
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1,TVBS 56
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+#EXTINF:-1,中天新闻2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1,寰宇新闻台湾
+https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+#EXTINF:-1,凤凰资讯台
+https://www.youtube.com/watch?v=if6yQq_JJyY
+#EXTINF:-1,东森直播
+https://www.youtube.com/watch?v=R2iMq5LKXco
+#EXTINF:-1,东森财经
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1,三立iNEWS
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+#EXTINF:-1,三立海外
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1,TaiwanPlus
+https://www.youtube.com/watch?v=dZp87qnWelE
+#EXTINF:-1,镜新闻
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1,东京都-新宿
+https://www.youtube.com/watch?v=DjdUEyjx8GM
+#EXTINF:-1,台湾地震监视
+https://www.youtube.com/watch?v=Owke6Quk7T0
+#EXTINF:-1,新唐人
+https://www.youtube.com/watch?v=WIhgU_mc05A
+#EXTINF:-1,信大电视台
+https://www.youtube.com/watch?v=AQymzwl3uSk
+#EXTINF:-1,NBC NEW
+https://www.youtube.com/watch?v=0IUbD_4ytuo
+#EXTINF:-1,DW
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1,FRANCE 24
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+#EXTINF:-1,Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1,ABC News
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1,Euronews
+https://www.youtube.com/watch?v=pykpO5kQJ98
+#EXTINF:-1,CNA
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1,National Geographic
+https://www.youtube.com/watch?v=306xLRnW3Cc
+#EXTINF:-1,Nat Geo WILD
+https://www.youtube.com/watch?v=6zGV59Ldp3s
+#EXTINF:-1,ANIMALS OF AFRICA 4K
+https://www.youtube.com/watch?v=XHI_U7suyxg
+#EXTINF:-1,GREAT HUNTER - 4K
+https://www.youtube.com/watch?v=vQP8AwAFzI8
+#EXTINF:-1,Most Beautiful Places 12K
+https://www.youtube.com/watch?v=Rse-E5tARaY
+#EXTINF:-1,4K African Animal
+https://www.youtube.com/watch?v=rkPCR6Ujtak
+#EXTINF:-1,凤凰中文
+https://php.61073736.repl.co/sxg.php?id=test1_4000
+#EXTINF:-1,凤凰资讯
+https://php.61073736.repl.co/sxg.php?id=test2_4000
