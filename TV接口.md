@@ -1,17 +1,8 @@
-[📺直播源](https://github.com/aa1555/Repository/tree/main/Live) 
+[📺直播源](https://github.com/aa1555/Repository/tree/main/Live) ｜ [📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) ｜ [📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) 
 
-[📺TV Box 配置](https://github.com/aa1555/Repository/tree/main/TV%20Box%20Config) 
+[📺直播源格式转换](https://guihet.com/tvlistconvert.html) ｜ [📺加密接口解析提取](https://www.lige.fit/ua) 
 
-
-[📺ZY Player 配置](https://github.com/aa1555/Repository/tree/main/ZY%20Player%20Config) 
-
-[📺直播源格式转换](https://guihet.com/tvlistconvert.html) 
-
-[📺加密接口解析提取](https://www.lige.fit/ua) 
-
-[📺TVBox配置编辑器](http://qiqiv.cn/tvbox/) 
-
-[📺TXT文本处理工具](http://www.txttool.com/)
+[📺TVBox配置编辑器](http://qiqiv.cn/tvbox/) ｜ [📺TXT文本处理工具](http://www.txttool.com/)
 
 [📺国内外电视频道直播源搜索]( https://www.foodieguide.com/iptvsearch)
 
