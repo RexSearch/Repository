@@ -33,6 +33,8 @@
 
 
 - 官网：https://doc.fastgit.org/zh-cn/
+
+  直接输入链接：
   
   `https://raw.fastgit.org/`后面接用户名及后面部分。
 
