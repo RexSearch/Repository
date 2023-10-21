@@ -1,11 +1,6 @@
-<h1 align="center"></h1>
+<h1 align="center">✯ Repository ✯</h1>
   
-<p align="center">
-✯ Repository ✯
-
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aa1555/Repository"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/aa1555/Repository"><img alt="GitHub Vistors" src="https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository"><img alt="GitHub issues" src="https://img.shields.io/github/issues/aa1555/Repository"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> <img alt="GitHub" src="https://img.shields.io/github/license/aa1555/Repository">
-
-</p>
+<p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/aa1555/Repository"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aa1555/Repository"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/aa1555/Repository"><img alt="GitHub Vistors" src="https://visitor-badge.laobi.icu/badge?page_id=aa1555.Repository"><img alt="GitHub issues" src="https://img.shields.io/github/issues/aa1555/Repository"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aa1555/Repository"> <img alt="GitHub" src="https://img.shields.io/github/license/aa1555/Repository"></p>
 
 <hr>
 
