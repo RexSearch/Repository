@@ -26,13 +26,15 @@
 
   或者直接输入链接：
 
-  `https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
+  `https://cdn.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的/改成@
 
-  `https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件`
+  `https://fastly.jsdelivr.net/gh/`后面接用户名及后面部分，把main前面的/改成@
 
 
 
 - 官网：https://doc.fastgit.org/zh-cn/
+
+  直接输入链接：
   
-  `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
+  `https://raw.fastgit.org/`后面接用户名及后面部分。
 
