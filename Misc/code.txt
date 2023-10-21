@@ -11,6 +11,8 @@
 加在标题前的图标并且居中，图标大小38×38
 <h1 align="center"><img src="URL" height="38" width="38">标题</h1>
 
+超链接：<a href="URL">标题</a>
+
 
 ~~     ~~删除线
 
