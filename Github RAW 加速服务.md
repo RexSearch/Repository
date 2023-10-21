@@ -34,5 +34,5 @@
 
 - 官网：https://doc.fastgit.org/zh-cn/
   
-  `https://raw.fastgit.org/用户名/仓库名/main/接口文件`
+  `https://raw.fastgit.org/`后面接用户名及后面部分。
 
