@@ -54,7 +54,7 @@
 
 <details>
   
-  <summary><b>展开</b></summary>
+  <summary><b>详情</b></summary>
 
 - <b>Clash 订阅链接：</b>
  `https://ghproxy.com/https://raw.githubusercontent.com/aa1555/Repository/main/Nodes/Clash.txt`
@@ -148,7 +148,7 @@
 
 <details>
   
-  <summary><b>展开复制订阅链接</b></summary>
+  <summary><b>详情</b></summary>
 
 - <b>多协议Base64编码：</b>
 
@@ -219,5 +219,7 @@
 </details>
 
 </details>
+
+<hr>
 
 ## [Github RAW 加速服务](https://github.com/aa1555/Repository/blob/main/Github%20RAW%20%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1.md)
