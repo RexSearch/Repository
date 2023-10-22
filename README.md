@@ -146,10 +146,6 @@
 
 ### [Auto_proxy](https://github.com/w1770946466/Auto_proxy)
 
-<details>
-  
-  <summary><b>详情</b></summary>
-
 - <b>多协议Base64编码：</b>
 
   `https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num`
@@ -216,8 +212,6 @@
 
   `https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`
   
-</details>
-
 </details>
 
 <hr>
