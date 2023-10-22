@@ -16,7 +16,7 @@
 
 <details>
   
-  <summary><b>展开</b></summary>
+  <summary><b>详情</b></summary>
 
 ### 📺直播源
 
@@ -47,7 +47,7 @@
 
 <details>
   
-  <summary><b>展开</b></summary>
+  <summary><b>详情</b></summary>
 
 ### 项目地址：[fanmingming/live](https://github.com/fanmingming/live)
 
@@ -85,7 +85,7 @@
 
 <details>
   
-  <summary><b>展开</b></summary>
+  <summary><b>详情</b></summary>
 
 - 唐三：https://hutool.ml/tang
 
