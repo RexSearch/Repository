@@ -67,7 +67,8 @@
 ### [get_subscribe](https://github.com/ermaozi/get_subscribe) 
 
 - <b>Clash订阅链接：</b>
- `https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+
+  https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
 - <b>V2ray订阅链接：</b>
   https://ghproxy.com/https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
