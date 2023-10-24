@@ -174,7 +174,7 @@
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2`
+  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
 
   `合并节点总数: 114`
 
@@ -186,7 +186,7 @@
 
 - <b>多协议Base64编码：</b>
 
-  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4`
+  https://ghproxy.com/https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
 
   `合并节点总数: 114`
 
