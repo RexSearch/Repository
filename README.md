@@ -14,9 +14,9 @@
 
 <p align="center">
 <a href="https://github.com/aa1555/Repository/tree/main/Nodes">节点</a> |
-<a href="https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md">📺TV接口</a> |
-<a href="https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md">✈️TG群</a> |
-<a href="https://github.com/aa1555?tab=stars">⭐星标</a> 
+<a href="https://github.com/aa1555/Repository/blob/main/TV%E6%8E%A5%E5%8F%A3.md">TV接口</a> |
+<a href="https://github.com/aa1555/Repository/blob/main/TG%E7%BE%A4.md">TG群</a> |
+<a href="https://github.com/aa1555?tab=stars">星标</a> 
 </p>
 
 <hr>
